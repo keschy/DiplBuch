@@ -5,7 +5,6 @@ diplomarbeit/*
 images/*
 *.zip
 *.pdf
-!diplomarbeit.pdf
 *.out
 *.aux
 *.lof
