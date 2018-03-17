@@ -1,5 +1,13 @@
 \chapter{Video}
 \renewcommand{\kapitelautor}{Autor: Kerstin Schön}
+\section{Technik}
+\subsection{Auflösung}
+Bei der Auflösung wird heutzutage unter SD, HD (2k), Digital Cinema (2k) und UHD (4k/8k) unterschieden. SD bedeutet Standard Definition und dominierte das Fernsehen.
+\subsection{Bildrate}
+\subsection{Farbräume}
+\subsection{Farbtiefe}
+\subsection{Farbabtastung}
+\subsection{Kompressionsverfahren}
 \section{Kameramodelle}
 \subsection{Canon EOS 60D}
 Die Canon EOS 60D DSLR (Digital Single Lens Reflex) Kamera bietet einen 18 Megapixel APS-C CMOS Sensor mit einer Größe von 22,3 mm x 14,9 mm. Die Spiegelreflexkamera nimmt mit Full HD (1920 x 1080) auf, wobei standardgemäß mit 25 Bildern pro Sekunde aufgenommen wird. Die Auflösung wird meistens mit 1080p gekennzeichnet, wobei das p für progressive steht, also für die Vollbilder.
