@@ -1,104 +1,130 @@
 \chapter{Video}
 \renewcommand{\kapitelautor}{Autor: Kerstin Schön}
 \section{Technik}
-\subsection{Auflösung}
-Bei der Auflösung wird heutzutage unter SD, HD (2k), Digital Cinema (2k) und UHD (4k/8k) unterschieden. SD bedeutet Standard Definition und dominierte das Fernsehen.
-\subsection{Bildrate}
-\subsection{Farbräume}
-\subsection{Farbtiefe}
+\subsection[Auflösung]{Auflösung\protect\footnote{\label{}vgl. Jörg Jovy, 2017, S. 109f.}}
+Bei der Auflösung wird heutzutage unter SD, HD (2k), Digital Cinema (2k) und UHD (4k/8k) unterschieden. SD bedeutet Standard Definition und dominierte früher das Fernsehen. Heutzutage ist der Standard nicht mehr Standard Definiton, sondern High Definition. Obwohl bei Smartphones, TV-Geräten und Kameras schon Full-HD, also 1920 x 1080 px, der Vorreiter ist, wird zumindest im deutschen Fernsehen noch im normalen HD Format, also 1280 x 720 px, ausgestrahlt. 
+\subsection[Bildrate]{Bildrate\protect\footnote{\label{}vgl. Jörg Jovy, 2017, S. 111f.}}
+Seit 1967 wird im deutschen Fernsehen mit dem sogenannten PAL Format (=Phase Alternative Line) gesendet. Im PAL Format werden 25 Bilder pro Sekunde oder 50 Halbbilder pro Sekunde gesendet. Jedoch herrscht in den USA nicht das PAL Format, sondern das sogenannte NTSC Format (=National Television Systems Committee), welches 30 Vollbilder pro Sekunde oder 60 Halbbilder pro Sekunde sendet. Diese unterschiedlichen Bildraten sind der Tatsache geschuldet, da in Europa eine Wechselspannungsfrequenz von 50Hz herrscht, und in den USA eine von 60Hz.
+\subsection[Farbraum]{Farbraum\protect\footnote{\label{}vgl. Jörg Jovy, 2017, S. 112f.}}
+Rot, Grün und Blau sind die drei Grundfarben des RGB Farbraums. Aus den drei Grundfarben bilden sich alle anderen Farben, die im RGB Farbraum möglich sind, was man RGB-Farbmischung nennt. "Bei einer 8-Bit-Codierung pro Farbe stehen 256 verschiedene Farbwerte zur Verfügung. Aus der Mischung ergeben sich theoretisch 16,78 Mio. verschiedene Farbwerte (= 256 x 256 x 256)."\footnote{\label{}vgl. Jörg Jovy, 2017, S. 113} Schwarz enthält keine Farbinformation von den drei Grundfarben, wohingegen Weiß die Mischung aller drei Grundfarben ist. Der Farbraum des HD Standards ist RGB oder sRGB. Es kann nur die Farbinformation dargestellt werden, die sich auch in dem verfügbaren Farbraum befinden. 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.5\textwidth]{abb11} 
+	\caption{HD Farbraum}
+\end{figure}
 \subsection{Farbabtastung}
-\subsection{Kompressionsverfahren}
+Bei der Farbabtastung handelt es sich um, eine Komprimierung, der Übertragung der Signale. Da ein unkomprimiertes Signal eine zu große Bandbreite in Anspruch nehmen würde, muss das Signal komprimiert werden. Dafür wird die Farbabtastung in Betracht gezogen. Da das menschliche Auge die Helligkeitskontraste besser auflöst als die Farbkontraste, wird bei der Farbabtastung die Helligkeit, oder Luminanz, mit der vollen Datenbreite zur Verfügung gestellt, die Farbinformation wird jedoch reduziert. Daraus ergibt sich dann ein voll aufgelöstes Signal mit der Farbabtastung von 4:4:4. Ein bereits komprimiertes Signal hat eine Farbunterabtastung von 4:2:2 oder 4:2:0 oder von 4:1:1.\footnote{\label{}vgl. Jörg Jovy, 2017, S. 114}
+\paragraph[4:2:2]{4:2:2\protect\footnote{\label{}vgl. https://www.itwissen.info/Farb-Subsampling-color-subsampling.html [Zugriff: 18.03.2018]}}
+\leavevmode \\
+Bei der Farbunterabtastung von 4:2:2 wird bei jedem Pixel der Helligkeitswert abgetastet, wobei der Farbwert nur bei jedem zweiten Pixel. 
+\paragraph{4:2:0}
+\leavevmode \\
+\textit{"Beim Subsampling von 4:2:0, erfolgt die Abtastung der Chrominanzsignale für jeweils vier quadratisch angeordnete nebeneinander liegende Pixel. Wie bei den anderen Subsampling-Verfahren auch, wird das Luminanzsignal bei jedem Pixel abgetastet."} \footnote{\label{}https://www.itwissen.info/Farb-Subsampling-color-subsampling.html [Zugriff: 18.03.2018]}
+\paragraph{4:1:1}
+\leavevmode \\
+Bei der Farbunterabtastung von 4:1:1 werden die Chrominanzsignale bei jeder vierter Abtastung abgetastet.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1.0\textwidth]{abb15} 
+	\caption{Farbabtastung}
+\end{figure}
 \section{Kameramodelle}
-\subsection{Canon EOS 60D}
-Die Canon EOS 60D DSLR (Digital Single Lens Reflex) Kamera bietet einen 18 Megapixel APS-C CMOS Sensor mit einer Größe von 22,3 mm x 14,9 mm. Die Spiegelreflexkamera nimmt mit Full HD (1920 x 1080) auf, wobei standardgemäß mit 25 Bildern pro Sekunde aufgenommen wird. Die Auflösung wird meistens mit 1080p gekennzeichnet, wobei das p für progressive steht, also für die Vollbilder.
-\subsection{Canon EOS 70D}
-Die Canon EOS 70D bietet einen minimal größeren Sensor im Gegensatz zu der Canon EOS 60D. Die Größe des Sensors der Canon EOS 70D beträgt 22,5 mm x 15,0 mm. Die Sensorgröße einer Kamera ist deswegen entscheidend, da folgendes gilt: "Je kleiner der Sensor, desto geringer sind die Möglichkeiten, mit einer definierten Schärfentiefe zu arbeiten."\footnote{\label{foot:1}Jörg Jovy, 2017, S. 136} Die Canon EOS 70D nimmt ebenfalls mit Full HD auf, wobei zu beachten ist, dass sie zusätzlich die Möglichkeit bietet, mit Intra-Frame oder Inter-Frame aufzunehmen. Bei Intra- oder Inter-Frames wird jedes Einzelbild komprimiert, das heißt, es kann auf jedes einzelne Bild zugegriffen werden\footnote{\label{foot:2}https://www.univie.ac.at/video/grundlagen/intraframe.htm [Zugriff: 17.03.2018]}, was sich in der Post Production positiv widerspiegelt, da man keine Gruppen aus Bildern bearbeiten muss, sondern im Notfall jedes einzelne Bild bearbeiten kann. Weiters spielt bei der Wahl der richtigen Kamera, der Cropfaktor eine wichtige Rolle. Der Cropfaktor legt fest: "Je kleiner ein Sensor ist, desto kleiner ist auch der Bildwinkel des Objektivs."\footnote{\label{foot:3}Jörg Jovy, 2017, S. 136} Das bedeutet, dass die Abbildungsfläche beschnitten wird, was einen engeren Bildausschnitt liefert und somit ein vergrößertes Bild darstellt. Was bei DSLR Kameras zu beachten ist, dass sie einen Cropfaktor von 1,6 besitzen. So verhält sich durch den Cropfaktor von 1,6 ein Normalobjektiv mit 50mm Brennweite, wie ein leichtes Teleobjektiv mit 80mm Brennweite. 
+\subsection[DSLR Kamera - Aufbau]{DSLR Kamera - Aufbau\protect\footnote{\label{}vgl. http://bit.ly/2pnpDgL [Zugriff: 18.03.2018]}}
+DSLR bedeutet Digital Single Lens Reflex und sind Spiegelkameras mit digitalem Aufnahme Sensor. Beispiele für eine Spiegelreflexkamera sind die Canon EOS 60D oder die Canon EOS 70. In der folgenden Abbildung wird der Aufbau einer DSLR Kamera dargestellt. Wie man in der Abbildung sehen kann, geht das Licht zuerst durch die Linse des Objektivs (1). Anschließend trifft das Licht auf den Schwingspiegel (2), welcher das Licht auf die Mattscheibe (5) reflektiert. Daraufhin verkleinert es die Sammellinse (6) auf die Größe des Suchers. Da das Bild noch spiegelverkehrt ist, spiegelt es das Pentaprisma (7) und kann so im Sucher (8) dann angezeigt werden. "Wenn man nun den Auslöser betätigt, klappt der Spiegel nach oben und gibt den Weg zum Schlitzverschluss (3) frei."\footnote{\label{}http://bit.ly/2pnpDgL [Zugriff: 18.03.2018]} Anschließend öffnet sich dieser Verschluss und das Licht fallt auf den Sensor (4). Zum Schluss wird das Bild dann abgespeichert.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.6\textwidth]{abb13} 
+	\caption{Aufbau einer DSLR Kamera}
+\end{figure}
+\subsection[Canon EOS 60D]{Canon EOS 60D\protect\footnote{\label{}vgl. http://bit.ly/2pnrmmy [Zugriff: 16.03.2018]}} Die Canon EOS 60D DSLR (Digital Single Lens Reflex) Kamera bietet einen 18 Megapixel APS-C CMOS Sensor mit einer Größe von 22,3 mm x 14,9 mm. Die Spiegelreflexkamera nimmt mit Full HD (1920 x 1080) auf, wobei standardgemäß mit 25 Bildern pro Sekunde aufgenommen wird. Die Auflösung wird meistens mit 1080p gekennzeichnet, wobei das p für progressive steht, also für die Vollbilder.
+\subsection[Canon EOS 70D]{Canon EOS 70D\protect\footnote{\label{}vgl. http://bit.ly/2IxVmF2 [Zugriff: 16.03.2018]}} Die Canon EOS 70D bietet einen minimal größeren Sensor im Gegensatz zu der Canon EOS 60D. Die Größe des Sensors der Canon EOS 70D beträgt 22,5 mm x 15,0 mm. Die Sensorgröße einer Kamera ist entscheidend, da folgendes gilt: "Je kleiner der Sensor, desto geringer sind die Möglichkeiten, mit einer definierten Schärfentiefe zu arbeiten."
+\footnote{\label{} Jörg Jovy, 2017, S. 136} Die Canon EOS 70D nimmt ebenfalls mit Full HD auf, wobei zu beachten ist, dass sie zusätzlich die Möglichkeit bietet, mit Intra-Frame oder Inter-Frame aufzunehmen. Bei Intra- oder Inter-Frames wird jedes Einzelbild komprimiert, das heißt, es kann auf jedes einzelne Bild zugegriffen werden
+\footnote{\label{}vgl. https://www.univie.ac.at/video/grundlagen/intraframe.htm [Zugriff: 17.03.2018]}, was sich in der Post Production positiv widerspiegelt, da man keine Gruppen aus Bildern bearbeiten muss, sondern im Notfall jedes einzelne Bild bearbeiten kann. Weiters spielt bei der Wahl der richtigen Kamera, der Cropfaktor eine wichtige Rolle. "Je kleiner ein Sensor ist, desto kleiner ist auch der Bildwinkel des Objektivs."
+\footnote{\label{}Jörg Jovy, 2017, S. 136} Das bedeutet, dass die Abbildungsfläche beschnitten wird, was einen engeren Bildausschnitt liefert und somit ein vergrößertes Bild darstellt. Was bei DSLR Kameras zu beachten ist, ist das sie einen Cropfaktor von 1,6 besitzen. So verhält sich durch den Cropfaktor von 1,6 ein Normalobjektiv mit 50mm Brennweite, wie ein leichtes Teleobjektiv mit 80mm Brennweite. 
 Da die Canon EOS 70D einen minimal größeren Sensor besitzt, und die Möglichkeit bietet, mit Intra-Frames aufzunehmen, wurde die Canon EOS 70D DSLR Kamera für alle Aufnahmen verwendet.
-\subsection{Objektive}
+\subsection[Objektive]{Objektive\protect\footnote{\label{}vgl. Jörg Jovy, 2017, S. 138f.}}
 Die Brennweite eines Objektivs legt den Bildausschnitt fest. Die Brennweite wird in Millimeter angegeben und sagt aus, ob es sich um ein Normal-, Tele-, oder ein Weitwinkelobjektiv handelt.
 Anhand der folgenden Abbildung kann man gut erkennen, dass ab 10 mm bis 24 mm Weitwinkelobjektive zum Einsatz kommen. Ein Normalobjektiv erkennt man daran, da es eine Brennweite von 50 mm besitzt und hat somit einen Bildwinkel mit 46$^\circ$ hat. Teleobjektive finden ihren Einsatz bei 80 mm bis 200 mm. Anhand der Abbildung kann man gut den Unterschied zwischen der Brennweite von 10 mm und einem Bildwinkel mit 130$^\circ$ , und einem Objektiv mit einer Brennweite von 200 mm mit 12$^\circ$ Bildwinkel erkennen. 
-\begin{figure}[h]
+\begin{figure}[H]
 	\centering
-	\includegraphics[width=0.8\textwidth]{abb1} 
+	\includegraphics[width=0.7\textwidth]{abb1} 
 	\caption{Brennweite und Bildwinkel}
 \end{figure}
 \begin{itemize}
-	\item Normalobjektiv
+	\item Normalobjektiv\footnote{\label{}vgl. Jörg Jovy, 2017, S. 196f.}
 		\begin{itemize}
-		\item Das Normalobjektiv entspricht im Grunde dem menschlichen Blickwinkel, und wird so meist als natürlich empfunden. 
+		\item Das Normalobjektiv entspricht im Grunde dem menschlichen Blickwinkel, und wird meist als natürlich empfunden. 
 		\end{itemize}
 	\item Weitwinkel
 		\begin{itemize}
-		\item Wie man auf der obigen Abbildung sehen kann, haben Weitwinkelobjektive einen breiten Bildwinkel, das 	heißt, man sieht mehr vom Bild. 
+		\item Wie man auf der obigen Abbildung sehen kann, haben Weitwinkelobjektive einen breiten Bildwinkel, somit sieht man mehr vom Bild. 
 		\end{itemize}
 	\item Teleobjektiv
 		\begin{itemize}
-		\item Teleobjektive nehmen Objekte mit einem kleinen Blickwinkel aber aus großer Entfernung auf. Teleobjektive haben daher einen eher kleinen Schärfentiefenbereich, was sich beispielsweise für Interviews schlecht eignet. 
+		\item Teleobjektive nehmen Objekte mit einem kleinen Blickwinkel aus großer Entfernung auf. Teleobjektive haben daher einen eher kleinen Schärfentiefenbereich, was sich beispielsweise für Interviews schlecht eignet. 
 \end{itemize}
 \end{itemize}
-\section{Beleuchtung}
+\section[Beleuchtung]{Beleuchtung\protect\footnote{\label{}vgl. Jörg Jovy, 2017, S. 236ff.}}
 In der Videografie wird die Belichtungszeit in der Bildrate vorgegeben, wohingegen sie in der Fotografie zwischen mehreren Stunden und wenigen Sekunden liegen kann.
 Die richtige Belichtungszeit kann man sich mit folgender Formel berechnen: Belichtungszeit = 1: Framerate x 2. Nimmt man nun mit 25 Bildern pro Sekunde auf, ergibt sich eine Belichtungszeit von 1:50 = 1/50 s. Würde man die Belichtungszeit verkürzen, z.B. auf 1/125 s, dann würde das Bild zwar schärfer werden, aber dann würde die Gefahr bestehen, dass der sogenannte Moir\'{e} Effekt eintritt. Der Moir\'{e} Effekt ist ein Bildfehler, der bei bewegten Bildern ein Flimmern erzeugt. Bei dem "Effekt" liegen feine Muster oder Raster in einem gegeneinander verschobenen Winkel übereinander, welche sich gegenseitig beeinflussen. 
-\begin{figure}[h]
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=0.8\textwidth]{abb2} 
 	\caption{Moir\'{e}-Effekt}
 \end{figure}
-
 Bei der Beleuchtung muss man drei Positionen von den Lichtquellen der Belichtung unterscheiden. Das Licht, das von vorne auf den Gegenstand kommt, nennt man Gegenlicht. Das Licht, das von der Seite kommt, wird als Streiflicht bezeichnet, und als drittes Licht wird das Auflicht verwendet, welches von hinten auf das Objekt scheint.
-\begin{figure}[h]
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=0.8\textwidth]{abb3} 
-	\caption{Zusammenspiel, der Lichter}
+	\caption{Zusammenspiel der Lichter}
 \end{figure}
-
-Wie man auf der Abbildung 6.3 erkennen kann, ist es wichtig, wie die Lichter im Verhältnis zueinander stehen. Das Führungslicht, oder Hauptlicht, dient dazu, die Szene generell aufzuhellen. Durch die Verwendung des Führungslichts entstehen Schatten, die wiederrum mit dem Fülllicht reduziert werden. Um den Gegenstand auch optisch vom Hintergrund abzuheben, kommt das sogenannte Spitzlicht zum Einsatz. \footnote{\label{foot:6}http://www.filmmachen.de/tipps-und-tricks/licht/3-punkt-beleuchtung [Zugriff: 17.03.2018]}
+Wie man auf der Abbildung 6.3 erkennen kann, ist es wichtig, wie die Lichter im Verhältnis zueinander stehen. Das Führungslicht, oder auch Hauptlicht genannt, dient dazu, die Szene generell aufzuhellen. Durch die Verwendung des Führungslichts entstehen Schatten, die wiederrum mit dem Fülllicht reduziert werden. Um den Gegenstand auch optisch vom Hintergrund abzuheben, kommt das sogenannte Spitzlicht zum Einsatz. \footnote{\label{}vgl. http://www.filmmachen.de/tipps-und-tricks/licht/3-punkt-beleuchtung [Zugriff: 17.03.2018]}
 \section{Mikrofone}
 \subsection{Richtcharakteristik}
-"Die Richtcharakteristik definiert, aus welcher Richtung das Mikrofon den Schall besonders empfindlich aufnimmt. Stark vereinfacht gesagt: Aus welcher Richtung aufgenommen wird."\footnote{\label{foot:7}https://www.delamar.de/mikrofon/richtcharakteristik-mikrofon-22647/ [Zugriff: 17.03.2018]} 
-\subsubsection{Kugelcharakteristik}
+\textit{"Die Richtcharakteristik definiert, aus welcher Richtung das Mikrofon den Schall besonders empfindlich aufnimmt. Stark vereinfacht gesagt: Aus welcher Richtung aufgenommen wird."}\footnote{\label{}https://www.delamar.de/mikrofon/richtcharakteristik-mikrofon-22647/ [Zugriff: 17.03.2018]} 
+\subsubsection[Kugelcharakteristik]{Kugelcharakteristik\protect\footnote{\label{}vgl. https://www.delamar.de/mikrofon/richtcharakteristik-mikrofon-22647/ [Zugriff: 17.03.2018]}}
 Bei der Kugelcharakteristik wird der Schall von allen Richtungen aufgenommen, das heißt es wird von keiner bevorzugten Richtung aufgenommen. Das Problem, was dadurch entsteht, ist, dass die Rückkoppelanfälligkeit sehr hoch ist, wodurch Mikrofone mit einer Kugelcharakteristik schlecht für Bühnen geeignet sind. 
-\begin{figure}[h]
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=0.4\textwidth]{abb4} 
 	\caption{Kugel}
 \end{figure}
 \subsubsection{Nierencharakteristik}
-Die Niere nimmt, im Gegensatz zur Kugelcharakteristik, aus einer bevorzugten Richtung auf. Wo, der Schall bei der Kugel von allein Seiten aufgenommen wird, wird er bei der Niere nur von einer Seite aufgenommen, meistens von vorne. Der Schall wird von den Seiten nur sehr leise bis gar nicht aufgenommen. Der Vorteil, der Niere ist, dass sie rückkopplungsfester, als die Kugel ist und sie so auch beispielsweise bei Konzerten verwendet werden kann. Der Nachteil der Niere ist der sogenannte Nachbesprechungseffekt. Das bedeutet: "Ab einer gewissen Nähe der Schallquelle werden die tieffrequenten Anteile dominanter."\footnote{\label{foot:8}https://www.delamar.de/faq/nahbesprechungseffekt-34021/ [Zugriff: 17.03.2018]}
-\begin{figure}[h]
+Die Niere nimmt, im Gegensatz zur Kugelcharakteristik, aus einer bevorzugten Richtung auf. Wo, der Schall bei der Kugel von allen Seiten aufgenommen wird, wird er bei der Niere nur von einer Seite aufgenommen, meistens von vorne. Der Schall wird von den Seiten nur sehr leise bis gar nicht aufgenommen. Der Vorteil, der Niere ist, dass sie rückkopplungsfester, als die Kugel ist und sie so auch beispielsweise bei Konzerten verwendet werden kann. Der Nachteil der Niere ist der sogenannte Nachbesprechungseffekt. Das bedeutet: "Ab einer gewissen Nähe der Schallquelle werden die tieffrequenten Anteile dominanter."\footnote{\label{}https://www.delamar.de/faq/nahbesprechungseffekt-34021/ [Zugriff: 17.03.2018]}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=0.4\textwidth]{abb5} 
 	\caption{Niere}
 \end{figure}
 \subsubsection{Keule/Superniere}
-Keule beziehungsweise Superniere sind Charakteristiken, die von der Niere abgeleitet sind. Die Fläche der Keule  ist im Gegensatz zu der Niere etwas schmaler. Das hat die Auswirkung, das von den Seiten weniger aufgenommen wird. Dadurch sind Mikrofone mit einer Keule oder Superniere hinten empfindlicher. "Dennoch haben sie die höchste Rückkopplungsfestigkeit."\footnote{\label{foot:9}https://www.delamar.de/mikrofon/richtcharakteristik-mikrofon-22647/ [Zugriff: 17.03.2018]}
-\begin{figure}[h]
+Keule beziehungsweise Superniere sind Charakteristiken, die von der Niere abgeleitet sind. Die Fläche der Keule ist im Gegensatz zu der Niere etwas schmaler. Das hat die Auswirkung, das von den Seiten weniger aufgenommen wird. Dadurch sind Mikrofone mit einer Keule oder Superniere hinten empfindlicher. "Dennoch haben sie die höchste Rückkopplungsfestigkeit."\footnote{\label{}https://www.delamar.de/mikrofon/richtcharakteristik-mikrofon-22647/ [Zugriff: 17.03.2018]}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=0.4\textwidth]{abb6} 
-	\caption{Niere}
+	\caption{Keule}
 \end{figure}
 \subsubsection{Acht}
-Die sogenannte Achtcharakteristik nimmt den Schall von vorne und hinten auf, jedoch nur minimal von den Seiten. Diese Charakteristik hat die Verwendung bei der M/S-Stereofonie.  
-\begin{figure}[h]
+Die sogenannte Achtcharakteristik nimmt den Schall von vorne und hinten auf, jedoch nur minimal von den Seiten. Diese Charakteristik hat die Verwendung bei der M/S-Stereofonie. 
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=0.4\textwidth]{abb7} 
-	\caption{Niere}
+	\caption{Acht}
 \end{figure}
 \subsection{Kondensatormikrofon}
-"Ein Kondensatormikrofon wandelt Schall in ein elektrisches Signal."\footnote{\label{foot:10}https://www.delamar.de/faq/kondensatormikrofon-34728/ [Zugriff: 17.03.2018]} Bei einem Kondensatormikrofon treffen die Schallwellen zuerst auf die Membran, was eine leitende Folie ist, die mit Gold bedampft ist. Dies verbessert die  Leitfähigkeit des Mikrofons wandelt die Luftdruckschwankungen in mechanische Schwingungen um.\footnote{\label{foot:11}https://www.delamar.de/faq/kondensatormikrofon-34728/ [Zugriff: 17.03.2018]} Anschließend wird sie in elektrische Spannung umgewandelt und über die XLR-Buchse wieder ausgegeben. 
-\begin{figure}[h]
+"Ein Kondensatormikrofon wandelt Schall in ein elektrisches Signal."\footnote{\label{}https://www.delamar.de/faq/kondensatormikrofon-34728/ [Zugriff: 17.03.2018]} Bei einem Kondensatormikrofon treffen die Schallwellen zuerst auf die Membran, was eine leitende Folie ist, die mit Gold bedampft ist. Dies verbessert die  Leitfähigkeit des Mikrofons wandelt die Luftdruckschwankungen in mechanische Schwingungen um.\footnote{\label{}vgl. https://www.delamar.de/faq/kondensatormikrofon-34728/ [Zugriff: 17.03.2018]} Anschließend wird sie in elektrische Spannung umgewandelt und über die XLR-Buchse wieder ausgegeben. 
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=0.6\textwidth]{abb8} 
 	\caption{Kondensatormikrofon}
 \end{figure}
 \subsection{Dynamisches Mikrofon}
-\textit{"Bei diesem Mikrofontyp wird das Signal durch elektromagnetische Induktion erzeugt. Kurz: Der Schall trifft auf die Membran des Mikrofons und regt sie zu mechanischen Schwingungen an, die durch eine mit der Membran verbundene Spule in elektrische Spannung umgewandelt werden. Und diese kommt dann aus der (XLR-)Buchse des Mikrofons."}\footnote{\label{foot:12}https://www.delamar.de/faq/dynamisches-mikrofon-34718/ [Zugriff: 17.03.2018]}
-\begin{figure}[h]
+\textit{"Bei diesem Mikrofontyp wird das Signal durch elektromagnetische Induktion erzeugt. Kurz: Der Schall trifft auf die Membran des Mikrofons und regt sie zu mechanischen Schwingungen an, die durch eine mit der Membran verbundene Spule in elektrische Spannung umgewandelt werden. Und diese kommt dann aus der (XLR-)Buchse des Mikrofons."}\footnote{\label{}https://www.delamar.de/faq/dynamisches-mikrofon-34718/ [Zugriff: 17.03.2018]}
+\begin{figure}[H]
 	\centering
 	\includegraphics[width=0.6\textwidth]{abb9} 
 	\caption{Dynamisches Mikrofon}
 \end{figure}
-\section{Planung und Vorbereitung}
+\section[Planung und Vorbereitung]{Planung und Vorbereitung\protect\footnote{\label{}vgl. Jörg Jovy, 2017, S. 50ff.}}
 Für die Planung eines Videos benötigt man meistens viel Zeit, um auch ein gutes Ergebnis zu erzielen. Bevor es an das bekannte Drehbuch geht, muss man vorerst noch drei andere Schritte berücksichtigen, nämlich die sogenannte Logline, das Expos\'{e} und das Treatment. Erst nach diesen Schritten ist es sinnvoll das Drehbuch zu schreiben. 
 \subsection{Logline}
 Die Logline ist vereinfacht gesagt, die Idee zum Film oder zum Video. Die Logline besteht meistens nur aus einem Satz und soll nur einen groben Überblick über den Film oder des Videos preisgeben. 
@@ -107,18 +133,19 @@ Das Expos\'{e} besteht meist nur aus ein paar Skizzen, wobei folgende Themen beh
 \subsection{Treatment}
 Das Treatment ist mehr oder weniger der Vorgänger des Drehbuchs. Ein Treatment beinhaltet schon kurze Dialoge zu bestimmten Szenen und eine szenengenaue Auflösung zum Film oder Video.
 \subsection{Drehbuch}
-Das Drehbuch ist,im Vergleich zum Treatment, komplett ausgearbeitet, das heißt, es liegt ein kompletter Produktionsleitfaden vor, wobei jede Szene ausgearbeitet ist. Weiters wenden wichtige Einstellungen in Bildszenen dargestellt. Adobe bietet die kostenlose Software \textit{Story} an, mit der man Drehbücher erstellen kann. 
+Das Drehbuch ist, im Vergleich zum Treatment, komplett ausgearbeitet, das heißt, es liegt ein kompletter Produktionsleitfaden vor, wobei jede Szene ausgearbeitet ist. Weiters wenden wichtige Einstellungen in Bildszenen dargestellt. Adobe bietet die kostenlose Software \textit{Story} an, mit der man Drehbücher erstellen kann. 
 \subsection{Storyboard}
-Ein Storyboard ist eine visualiserte Veranschaulichung von dem Konzept, das man sich zuvor überlegt hat.\footnote{\label{foot:13}https://www.e-teaching.org/didaktik/konzeption/inhalte/storyboard [Zugriff: 16.03.2018]}Um die korrekte Ausführung der Videos zu gewährleisten, wurden sogenannte Storyboards angefertigt. Diese wurden mit der Online Plattform "Storyboard That"\footnote{\label{foot:14}https://www.storyboardthat.com/ [Zugriff: 16.03.2018]} erstellt und schließlich als PDF - Format exportiert.
+Ein Storyboard ist eine visualisierte Veranschaulichung von dem Konzept, das man sich zuvor überlegt hat.\footnote{\label{}vgl. https://www.e-teaching.org/didaktik/konzeption/inhalte/storyboard [Zugriff: 16.03.2018]}Um die korrekte Ausführung der Videos zu gewährleisten, wurden sogenannte Storyboards angefertigt. Diese wurden mit der Online Plattform "Storyboard That"\footnote{\label{}https://www.storyboardthat.com/ [Zugriff: 16.03.2018]} erstellt und schließlich als PDF - Format exportiert.
 Im Storyboard wurden die Szenen bildlich dargestellt, was das Team im weiteren Verlauf unterstützte, da es dadurch grobe Fehler vermeiden konnte.
-Das Online - Tool ermöglichte es zwischen verschiedensten Szenen, Charakteren und Kategorien auszuwählen, wodurch vereinfacht, verschiedenste Szenen dargestellt werden konnten.
-\begin{figure}[h]
-	\centering
-	\includegraphics[width=0.8\textwidth]{abb10} 
+Das Online - Tool ermöglichte es zwischen verschiedensten Szenen, Charakteren und Kategorien auszuwählen, wodurch vereinfacht, verschiedenste Szenen dargestellt werden konnten. 
+\begin{figure}[H]
+\begin{center}
+	\fbox{\includegraphics[scale=0.40]{abb10}}
 	\caption{Storyboard}
+\end{center}
 \end{figure}
 \section{Setting}
-Beim Aufbau des Sets wurde auf das Drehbuch und das Storyboard referenziert. Hierbei wurde auch die Location berücksichtigt, da für  den Aufbau eines Videos mittels Greenscreen ein anderes Set von Nöten war, als bei einem Video am Gang in der Schule. Weiters musste überlegt werden, wie die Kameras und Lichter platziert werden müssen. Bevor es zum eigentlichen Dreh kam, wurden die jeweiligen Drehs im Vorhinein ausreichend getestet, um später beim wirklichen Dreh Fehler zu vermeiden. Weiters wurden zusätzlich verschiedene Mikrofone getestet, um für die jeweilige Situation das optimale Mikrofon zu verwenden.
+Beim Aufbau des Sets wurde auf das Drehbuch und das Storyboard referenziert. Hierbei wurde auch die Location berücksichtigt, da für den Aufbau eines Videos mit Greenscreen ein anderes Set von Nöten war, als bei einem Video am Gang in der Schule. Weiters musste überlegt werden, wie die Kameras und Lichter platziert werden müssen. Bevor es zum eigentlichen Dreh kam, wurden die jeweiligen Drehs im Vorhinein ausreichend getestet, um später beim wirklichen Dreh, Fehler zu vermeiden. Weiters wurden zusätzlich verschiedene Mikrofone getestet, um für die jeweilige Situation das optimale Mikrofon zu verwenden.
 \section{Post Production}
 \subsection{Aufnahmeformate}
 \subsection{Codecs}
@@ -143,3 +170,5 @@ Beim Aufbau des Sets wurde auf das Drehbuch und das Storyboard referenziert. Hie
 \subsection{Interview mit dem Abteilungsvorstand}
 \subsection{Tag der offenen Tür Video}
 \subsection{Video mit einem Absolvent}
+
+
