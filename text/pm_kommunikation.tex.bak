@@ -1,10 +1,14 @@
 \chapter{Das Projekt}
 \renewcommand{\kapitelautor}{Autor: Hatice Akyokus}
-In diesem Kapitel wird die Planung des Projektes erläutert. Die Projektplanung ist die wichtigste Phase eines Projektes und erfolgt nach der Definierung der Projektziele.\footnote{\label{foot:2}vgl.https://www.rechnungswesen-verstehen.de/lexikon/projektplanung.php [Zugriff: 17.03.2018]}   Weiters wird die Projektmanagementmethode und alle, für diese Methode wichtigen, Tools, welche verwendet wurden, erklärt.
+In diesem Kapitel wird die Planung des Projektes erläutert. 
 
-\section{Kick-Off-Meeting}
+\section{Die Idee}
+Am Tag der offenen Tür werden jungen Schülern gezeigt, was die Medientechnik beinhaltet. Dabei werden nur die Bereiche Video, Audio und Fotografie demonstriert. Bereiche wie Webdesign, Softwaretechnik und Webtechnologie werden gänzlich ausgelassen. Dadurch, dass die Besucher denken, dass es nur diese multimedialen Bereiche gibt, melden sie sich an und merken schnell, dass man sich erst ab der 4. Klasse auf diese Bereiche spezialisiert. Um dies zu verhindern, wurden Informationsvideos gedreht, die auf einer Webseite zur Verfügung stehen. Es wurden insgesamt fünf Videos auf die Webseite gestellt. Zwei davon sind Interviews mit dem Abteilungsvorstand der HTL Rennweg und dem Medientechniklehrer Mag. Roman Jerabek. Die übrigen Videos sorgen für den „Fun-Factor“ und sind humorvoller als die Interviews. Die Webseite beinhaltet interaktive Elemente, welche zeigen, was mit der Medientechnik gemacht werden kann. Durch diese Mittel soll gezeigt werden, was in den fünf Jahren beigebracht wird.
 
-Im Rahmen dieser Diplomarbeit, wurde als Erstes ein Kick-Off-Meeting mit den Projektbetreuern organisiert, bei der die Durchführung besprochen wurde. Anschließend wurden, die zu erledigenden Dokumente, die Umwelt- bzw. Umfeldanalyse und die Risikoanalyse, festgelegt. Zuletzt wurde die Projektmanagementmethode festgelegt, welche für die Diplomarbeit am besten geeignet ist. Nach dem Kick-Off-Meeting wurde der Antrag, welcher die Projektziele, die Projektorganisation, die Umwelt- bzw. Umfeldanalyse, die Risikoanalyse, die Meilensteinliste, die Projektressourcen und externe Kooperationspartner enthält, geschrieben und dem Abteilungsvorstand der Informationstechnologie, Dr. Gerhard Hager, übergeben.
+
+\section{Die Planung}
+
+Die Projektplanung ist die wichtigste Phase eines Projektes und erfolgt nach der Definierung der Projektziele.\footnote{\label{foot:2}vgl.https://www.rechnungswesen-verstehen.de/lexikon/projektplanung.php [Zugriff: 17.03.2018]}   Weiters wird die Projektmanagementmethode und alle, für diese Methode wichtigen, Tools, welche verwendet wurden, erklärt. Im Rahmen dieser Diplomarbeit, wurde als Erstes ein Kick-Off-Meeting mit den Projektbetreuern organisiert, bei der die Durchführung besprochen wurde. Anschließend wurden, die zu erledigenden Dokumente, die Umwelt- bzw. Umfeldanalyse und die Risikoanalyse, festgelegt. Zuletzt wurde die Projektmanagementmethode festgelegt, welche für die Diplomarbeit am besten geeignet ist. Nach dem Kick-Off-Meeting wurde der Antrag, welcher die Projektziele, die Projektorganisation, die Umwelt- bzw. Umfeldanalyse, die Risikoanalyse, die Meilensteinliste, die Projektressourcen und externe Kooperationspartner enthält, geschrieben und dem Abteilungsvorstand der Informationstechnologie, Dr. Gerhard Hager, übergeben.
 
 \section{Projektmanagement und Kommunikation}
 
@@ -33,17 +37,41 @@ Der Product Backlog wird vom Product Owner angelgt, gepflegt, geordnet und prior
 \subsubsection[Sprint Backlog]{Sprint Backlog\protect\footnote{\label{foot:2}vgl.http://scrum-fibel.de/artefakte/sprint\%20backlog.html [Zugriff: 17.03.2018]}}
 In einem Sprint Backlog befindet sich eine Liste von Aufgaben. Diese sind essentiell um die Anforderungen des Product Backlogs umzusetzen. Das Sprint Backlog entsteht aus der Sprint Planung, wobei der Aufwand einer Aufgabe in Stunden geschätzt wird. Die Aufgaben nimmt sich jedes Teammitglied selbst und nutzt den Sprint Backlog zur Verfolgung der Aufgaben. 
 
-\subsubsection{Sprint Planning}
+\subsubsection[Sprint Planning]{Sprint Planning\protect\footnote{\label{foot:2}vgl.http://doktor-scrum.de/sprint-planning-1/ [Zugriff: 17.03.2018]}}
+Im Sprint Planning werden die Anforderungen und Arbeitspakete, die im aktuellen Sprint umgesetzt werden sollen, besprochen. Der Product-Owner organisiert alles, das Entwicklungsteam, der Scrum-Master und optional der Stakeholder, nehmen teil.  Das Sprint Planning findet zu Beginn jedes Sprints statt und dauert vier bis acht Stunden. Aus dem Product-Backlog werden eine Anzahl an höchstpriorisierten Anforderungen ausgewählt und in ein Selected-Backlog übernommen. Diese sind nur Vorschläge, denn das Entwicklerteam entscheidet letztendlich, was im Sprint realisiert werden soll. Die Sprint-Planung teilt sich in zwei Phasen auf. In der ersten Phase, werden die Anforderungen detailliert besprochen. Dabei schätzt das Entwicklungsteam den Realisationsaufwand und legt fest, was im Sprint umgesetzt wird. In der zweiten Phase bespricht das Entwicklungsteam die Realisierung und zerlegt die Anforderungen in einzelne Tasks. Bei Fragen sollte der Product Owner erreichbar sein.
 
 
-\subsubsection {Daily Scrum}
+\subsubsection[Daily Scrum]{Daily Scrum\protect\footnote{\label{foot:2}vgl.http://scrum-master.de/Scrum-Meetings/Daily\underline Scrum\underline Meeting [Zugriff: 17.03.2018]}}
+Ein Daily Scrum-Meeting ist ein kurzes, tägliches Meeting des Teams, welches ungefähr 15 Minuten dauert. Der Scrum Master nimmt teil und greift moderierend ein, wenn nötig. Beim Daily Scrum werden Statusupdates und Geschehnisse geschildert. 
 
-\subsubsection{Sprint-Review}
+\subsubsection[Sprint Review]{Sprint Review\protect\footnote{\label{foot:2}vgl.https://www.projektmagazin.de/methoden/sprint-review [Zugriff: 18.03.2018]}}
+Das Sprint Review-Meeting findet am Ende jedes Sprintes statt. Sie dient zur Einholung von Feedback von den Stakeholdern. Dabei wird das Produktinkrement vorgestellt, wobei der Stakeholder seine Meinung gibt und dadurch das Produkt im nächsten Sprint optimiert werden kann. 
 
-\subsubsection{Sprint-Retrospective}
+\subsection{Tool für Scrum}
+Taiga ist ein Open Source Tool, welches für Scrum Projekte verwendet werden kann. Durch das schlichte und moderne Design, findet man sich schnell zurecht. Man bekommt die Möglichkeit geboten entweder ein Scrum oder Kanban Template zu benutzen. In dieser Diplomarbeit wurde das Scrum Template verwendet. Taiga bietet ein Interface für das Product und Sprint Backlog und dem dazugehörigen Taskboard, welche alle Tasks grafisch darstellt und sie mit einem Status versieht, um ersichtlich zu machen, in welcher Phase sich der Task befindet. Es gibt fünf Phasen: 
+\begin{itemize}
+\item Neu
+\item In Arbeit
+\item Bereit zum Testen
+\item Fertig
+\item Informationen werden benötigt
+\end{itemize}
 
-\subsubsection {Product Increment}
+Die Tasks können in die jeweilige Phase verschoben werden und sobald sie sich in der Phase „Fertig“ befinden, aktualisiert sich der Projektfortschritt. Das gibt einen genauen Überblick über den Stand des Projektes. 
 
 \subsection{Zeiterfassung}
+Für die Zeiterfassung wurde toggl.com verwendet. Durch die Eingabe des Tasks und den Klick eines Buttons, wird die Zeit aufgezeichnet und in den Reports aufgelistet. Der Projektleiter kann die erfassten Zeiten jedes Teammitgliedes sehen und auch verändern. Es gibt zwei Möglichkeiten die Zeit zu erfassen:
+\begin{itemize}
+\item Manual Mode
+\item Timer Mode
+\end{itemize}
+
+Im Manual Mode wird die Zeit händisch eingetragen, währenddessen im Timer Mode die Zeit, ähnlich wie bei einer Stoppuhr, automatisch läuft. Das führt zu einer genaueren Zeiterfassung. 
+
 \subsection{Kommunikationsmittel}
+In der Diplomarbeit wurde teamintern WhatsApp als Kommunikationsmittel verwendet. WhatsApp ist eine Instant-Messaging-App mit der Nachrichten in Echtzeit ausgetauscht werden können. Die Projektleitung erstellte zu diesem Zwecke eine Gruppe, in welcher alle Mitglieder eingeladen wurden. In dieser Gruppe wurden wichtige Ereignisse besprochen, sowie Fragen geklärt. 
+Mit den Diplomarbeitsbetreuern wurde die Kommunikation durch E-Mail bevorzugt. 
+
 \subsection{Dokumentenverwaltung durch Sharepoint}
+Für die Dokumentenverwaltung, entschied sich das Team für Microsoft Sharepoint. Dieses Tool bietet eine Verbesserung der Teamproduktivität, sowie ein bequemes Verwalten von Dokumente durch eine kurze Einarbeitungszeit und einer schnellen und leichten Erstellung einer Zusammenarbeitsumgebung. Auf Sharepoint haben das gesamte Team und die Projektbetreuer Zugriff, um hochgeladene Dateien bewerten zu können.
+
