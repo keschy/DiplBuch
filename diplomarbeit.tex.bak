@@ -34,7 +34,6 @@
 \usepackage{listings}
 \usepackage{blindtext}
 
-
 %% Aufzählungen nicht so weit einrücken
 \usepackage[inline]{enumitem}
 %\setitemize{leftmargin=*} 

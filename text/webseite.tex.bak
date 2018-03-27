@@ -1,0 +1,28 @@
+\chapter{Webauftritt}
+\renewcommand{\kapitelautor}{Autor: Hatice Akyokus}
+In diesem Kapitel wird der Webauftritt erläutert. Der Webauftritt ist der wichtigste Bestandteil der Diplomarbeit, da sich alle Elemente auf dieser befinden.
+ 
+\section{Nutzen und Inhalt}
+Um die Zielgruppe am Besten zu erreichen, wurde eine Webseite erstellt. Diese soll zeigen, was in den fünf Jahren Medientechnik beigebracht wird. Weiters soll sie Missverständnisse beseitigen und dafür sorgen, dass Interessenten so gut wie möglich informiert sind. Dafür beinhaltet die Webseite eine Startseite, welche kurz und knapp den Inhalt der Webseite erklärt, interaktive Elemente, die der Benutzer ausprobieren kann, um zu sehen, was man mit der Medientechnik machen kann und Videos, die einerseits informieren sollen und andererseits den Spaßfaktor der Webseite erhöhen sollen. 
+
+\section{Bildquellen}
+Alle verwendeten Bilder, wurden von der Webseite unsplash.com heruntergeladen. Unsplash.com ist eine Webseite, auf der User ihre eigenen Bilder hochladen können. Diese können von anderen Usern kostenlos heruntergeladen werden. Weiters wurden kostenlose Vektorgrafiken von der Webseite flaticon.com verwendet. Dies ist eine Webseite, welches Vektorgrafiken in verschiedenen Formaten anbietet. Es gibt kostenpflichtige und kostenfreie Grafiken, die frei anpassbar sind. Im Rahmen der Diplomarbeit wurden Bilder verwendet, die dem Corporate Design entsprechen und zu dem Thema der Diplomarbeit passen. Das Team entschied sich für ein „Space-Theme“, welches die Größe der Medientechnik grafisch darstellen sollte. 
+
+\section[Frameworks und Libraries]{Frameworks und Libraries\protect\footnote{\label{foot:2}vgl.https://www.eins2design.de/blog/168-was-bedeutet-framework-und-wozu-wird-es-verwendet [Zugriff: 18.03.2018]}} 
+Framework heißt übersetzt Rahmenkonstruktion und wird häufig bei Webseiten verwendet. Sie dienen als Gerüst zum Programmieren und erleichtern die Arbeit, die damit verbunden ist. Dabei ist das Framework selbst kein Programm, sondern ein Rahmen, welcher den Inhalt ansprechend präsentiert. 
+
+\subsection{Foundation}
+\subsection{CreateJS}
+\subsection{interact.js}
+\section{Responsiveness}
+
+\section[Storytelling]{Storytelling\protect\footnote{\label{foot:2}vgl. https://www.textbroker.de/storytelling [Zugriff: 18.03.2018]}}
+“Kinder verpacken Ihre Ideen und Gedanken oftmals in Geschichten, um uns Erwachsene damit ihre Welt zu erklären. Als Erwachsene wiederum müssen wir es wieder lernen, Geschichten zu erzählen.“\footnote{\label{foot:2} Dr. Michael Egger, http://www.erfolgszeiten.at/weshalb-storytelling-wichtig-ist/ [Zugriff: 18.03.2018]} Storytelling vermittelt durch den Einsatz von Geschichten Information. Die Geschichten können real oder konstruiert sein, es muss lediglich gut ankommen und im Kopf der Nutzer bleiben. Weiters dient Storytelling dazu, die Aufmerksamkeit des Nutzers zu ergattern und das auf eine kreative Weise. Die Informationen werden dabei anschaulich gemacht, um die Botschaft ankommen zu lassen. Wichtig ist die Erstellung eines oder mehreren Protagonisten und einem Problem. Im Laufe der Geschichte, soll sich das Problem lösen oder auch nicht. Eine gute Geschichte führt dazu, dass sich die Nutzer mit der Thematik auseinandersetzen und emotional aufgeladen sind. Weiters sorgt eine gute Story für Begeisterung. Es gibt verschiedene Arten von Storytelling, vom Buch bis hin zu Werbevideos und Webseiten. Das Internet bietet hier eine große Möglichkeit für das Erzählen von Geschichten. Wichtig ist vor allem die Interaktivität, damit es nicht zu schnell langweilig wird. 
+
+\subsection{Story}
+Project Insight benutzt klassische Storytelling-Methoden, um Nutzer über die Medientechnik zu informieren. Dabei dachte sich das Team, die Figur, Rene Weg, aus. Dieser ist ein Absolvent der HTL Rennweg und hat dem Nutzer gegenüber eine Mentor-Funktion. Rene Weg, ist eine sarkastische und humorvolle Figur, welcher dem Nutzer die Medientechnik, auf eine spielerische und lockere Art und Weise, zeigt. Es war dem Team sehr wichtig, ein paar Witze in die Story einzubinden, um dem Nutzer das Gefühl zu geben, dass man an der HTL Rennweg auch Spaß haben kann. Durch verschiedenste Gestiken und Mimik, wird Leben in die Figur gehaucht. Abgesehen von der Rolle der Figur als Mentor, kommt sie auch noch in dem Animationsvideo (siehe Kapitel Animationsvideo) vor.
+
+\subsection{Startseite}
+
+\subsection{Interaktive Elemente}
+
