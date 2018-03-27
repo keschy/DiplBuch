@@ -3,6 +3,8 @@
 \section{Technik}
 \subsection[Auflösung]{Auflösung\protect\footnote{\label{}vgl. Jörg Jovy, 2017, S. 109f.}}
 Bei der Auflösung wird heutzutage unter SD, HD (2k), Digital Cinema (2k) und UHD (4k/8k) unterschieden. SD bedeutet Standard Definition und dominierte früher das Fernsehen. Heutzutage ist der Standard nicht mehr Standard Definiton, sondern High Definition. Obwohl bei Smartphones, TV-Geräten und Kameras schon Full-HD, also 1920 x 1080 px, der Vorreiter ist, wird zumindest im deutschen Fernsehen noch im normalen HD Format, also 1280 x 720 px, ausgestrahlt. 
+\subsection{Aspect-Ratio - Seitenverhältnis}
+Früher, als SD das Standard Fernsehformat war, war das Seitenverhältnis eines Fernsehbildes 4:3. Jedoch wurde später aus 4:3, 16:9, was auch heute im HD Format noch beibehalten wurde. Das SD Format verwendet rechteckige Pixel, was die Folge hat, dass ein SD Bild immer die gleiche Anzahl von Pixeln hat, nämlich 720 x 576. "Nur werden einmal rechteckige Pixel mit einem Seitenverhältnis von 1,46:1 (= 16:9) und einmal von 1,09:1 (= 4:3) verwendet." Man nennt dies auch anamorph. "Anamorph bedeutet, dass die Pixel des Films nicht quadratisch sind, sondern rechteckig." Da Computer und HD-Bilder nur quadratische Pixel anzeigen, aber ein SD Fernsehformat rechteckige, muss man bei der Auswahl des Formats berücksichtigen, wo man das Video oder den Film schlussendlich abspielen möchte.
 \subsection[Bildrate]{Bildrate\protect\footnote{\label{}vgl. Jörg Jovy, 2017, S. 111f.}}
 Seit 1967 wird im deutschen Fernsehen mit dem sogenannten PAL Format (=Phase Alternative Line) gesendet. Im PAL Format werden 25 Bilder pro Sekunde oder 50 Halbbilder pro Sekunde gesendet. Jedoch herrscht in den USA nicht das PAL Format, sondern das sogenannte NTSC Format (=National Television Systems Committee), welches 30 Vollbilder pro Sekunde oder 60 Halbbilder pro Sekunde sendet. Diese unterschiedlichen Bildraten sind der Tatsache geschuldet, da in Europa eine Wechselspannungsfrequenz von 50Hz herrscht, und in den USA eine von 60Hz.
 \subsection[Farbraum]{Farbraum\protect\footnote{\label{}vgl. Jörg Jovy, 2017, S. 112f.}}
@@ -38,6 +40,14 @@ DSLR bedeutet Digital Single Lens Reflex und sind Spiegelkameras mit digitalem A
 %	\includegraphics[width=0.6\textwidth]{abb13} 
 %	\caption{Aufbau einer DSLR Kamera}
 %\end{figure}
+\subsection{Sensoren}
+Heutzutage werden in DSLR Kameras zwei verschieden Sensoren eingebaut. Zum einen die CMOS-Chips und zum anderen die CCD Chips.
+\paragraph{CMOS-Chips}
+\leavevmode \\
+Die CMOS Sensoren haben den großen Nachteil, dass das Bild bei schnellen Bewegungen, etwa wie beim Filmen von fahrenden Autos, verzerrt dargestellt wird. Dies wird auch Rolling-Shutter-Effekt genannt. Bei dem Rolling-Shutter-Effekt schauen die vertikalen Linien so aus, als würden sie umfallen, was das Bild unbrauchbar machen kann.
+\paragraph{CCD-Chips}
+\leavevmode \\
+Die CCD Sensoren haben zwar nicht das Problem mit dem Rolling-Shutter-Effekt, jedoch sind diese Sensoren lichtempfindlicher. Das bedeutet, dass wenn das Licht direkt ins Objektiv scheint, tritt der sogenannte Blooming-Effekt ein. Beim Blooming-Effekt wird das Bild von einem breiten weißen Streifen geteilt. Scheint Kunstlicht in das Objektiv entstehen wandernde violette Streifen.
 \subsection[Canon EOS 60D]{Canon EOS 60D\protect\footnote{\label{}vgl. http://bit.ly/2pnrmmy [Zugriff: 16.03.2018]}} Die Canon EOS 60D DSLR (Digital Single Lens Reflex) Kamera bietet einen 18 Megapixel APS-C CMOS Sensor mit einer Größe von 22,3 mm x 14,9 mm. Die Spiegelreflexkamera nimmt mit Full HD (1920 x 1080) auf, wobei standardgemäß mit 25 Bildern pro Sekunde aufgenommen wird. Die Auflösung wird meistens mit 1080p gekennzeichnet, wobei das p für progressive steht, also für die Vollbilder.
 \subsection[Canon EOS 70D]{Canon EOS 70D\protect\footnote{\label{}vgl. http://bit.ly/2IxVmF2 [Zugriff: 16.03.2018]}} Die Canon EOS 70D bietet einen minimal größeren Sensor im Gegensatz zu der Canon EOS 60D. Die Größe des Sensors der Canon EOS 70D beträgt 22,5 mm x 15,0 mm. Die Sensorgröße einer Kamera ist entscheidend, da folgendes gilt: "Je kleiner der Sensor, desto geringer sind die Möglichkeiten, mit einer definierten Schärfentiefe zu arbeiten."
 \footnote{\label{} Jörg Jovy, 2017, S. 136} Die Canon EOS 70D nimmt ebenfalls mit Full HD auf, wobei zu beachten ist, dass sie zusätzlich die Möglichkeit bietet, mit Intra-Frame oder Inter-Frame aufzunehmen. Bei Intra- oder Inter-Frames wird jedes Einzelbild komprimiert, das heißt, es kann auf jedes einzelne Bild zugegriffen werden
@@ -81,7 +91,15 @@ Bei der Beleuchtung muss man drei Positionen von den Lichtquellen der Belichtung
 %	\includegraphics[width=0.8\textwidth]{abb3} 
 %	\caption{Zusammenspiel der Lichter}
 %\end{figure}
-Wie man auf der Abbildung 6.6 erkennen kann, ist es wichtig, wie die Lichter im Verhältnis zueinander stehen. Das Führungslicht, oder auch Hauptlicht genannt, dient dazu, die Szene generell aufzuhellen. Durch die Verwendung des Führungslichts entstehen Schatten, die wiederrum mit dem Fülllicht reduziert werden. Um den Gegenstand auch optisch vom Hintergrund abzuheben, kommt das sogenannte Spitzlicht zum Einsatz. \footnote{\label{}vgl. http://www.filmmachen.de/tipps-und-tricks/licht/3-punkt-beleuchtung [Zugriff: 17.03.2018]}
+Wie man auf der Abbildung 6.6 erkennen kann, ist es wichtig, wie die Lichter im Verhältnis zueinander stehen. Das Führungslicht, oder auch Hauptlicht genannt, dient dazu, die Szene generell aufzuhellen. Durch die Verwendung des Führungslichts entstehen Schatten, die wiederrum mit dem Fülllicht reduziert werden. Um den Gegenstand auch optisch vom Hintergrund abzuheben, kommt das sogenannte Spitzlicht zum Einsatz. \footnote{\label{}vgl. http://www.filmmachen.de/tipps-und-tricks/licht/3-punkt-beleuchtung [Zugriff: 17.03.2018]} \\
+\paragraph{Softbox}
+\leavevmode \\
+Um den Schauplatz genügend auszuleuchten, verwendeten wir für alle vier Videos LED Scheinwerfer. Um keine harten Schatten zu erzeugen, wurden noch zusätzlich
+sogenannte Softboxen verwendet. Eine Softbox ist im Grunde eine Hülle, bei der
+die Innenseite silber ist und welche dadurch das Licht wie ein Reflektor nach vorne
+reflektiert. Anschließend geht das Licht durch den sogenannten "Front - Diffuser", was
+ein lichtdurchlässiges Gewebe ist, der das Licht streut, und es so diffuser erscheinen
+lässt. Dadurch wird auch die Helligkeit reduziert und aufgrund der großen Fläche wird das Licht weicher, wodurch die Schatten diffuser werden. \\
 Bei dem Interview mit dem Abteilungsvorstand wurde jedoch keine 3-Punkt-Beleuchtung angewandt. Es wurden nur mit zwei Lichtquellen gearbeitet, um kein gekünsteltes Video zu drehen. Die zwei Lichtquellen sollen nur dazu dienen die Szene generell aufzuhellen und um eventuelle Schatten auszugleichen. Es soll natürlich wirken und dem Betrachter nicht das Gefühl zu geben, dass es gestellt ist.  Dieses Set wurde ebenfalls bei dem Dreh des Quiz mit dem Absolventen und dem Schüler der zweiten Klasse angewandt, um auch hier ein natürliches Ergebnis zu erzeugen.
 \section{Mikrofone}
 \subsection{Richtcharakteristik}
@@ -122,7 +140,7 @@ Die sogenannte Achtcharakteristik nimmt den Schall von vorne und hinten auf, jed
 %	\caption{Kondensatormikrofon}
 %\end{figure}
 \subsection{Dynamisches Mikrofon}
-\textit{"Bei diesem Mikrofontyp wird das Signal durch elektromagnetische Induktion erzeugt. Kurz: Der Schall trifft auf die Membran des Mikrofons und regt sie zu mechanischen Schwingungen an, die durch eine mit der Membran verbundene Spule in elektrische Spannung umgewandelt werden. Und diese kommt dann aus der (XLR-)Buchse des Mikrofons."}\footnote{\label{}https://www.delamar.de/faq/dynamisches-mikrofon-34718/ [Zugriff: 17.03.2018]}
+\textit{"Bei diesem Mikrofontyp wird das Signal durch elektromagnetische Induktion erzeugt. Kurz: Der Schall trifft auf die Membran des Mikrofons und regt sie zu mechanischen Schwingungen an, die durch eine mit der Membran verbundene Spule in elektrische Spannung umgewandelt werden. Und diese kommt dann aus der (XLR-)Buchse des Mikrofons."}\footnote{\label{}https://www.delamar.de/faq/dynamisches-mikrofon-34718/ [Zugriff: 17.03.2018]} \\ \\
 %\begin{figure}[H]
 %	\centering
 %	\includegraphics[width=0.6\textwidth]{abb9} 
@@ -177,7 +195,15 @@ Bevor mit dem Schnitt begonnen werden kann, muss zunächst das Projektformat fes
 	\item Bildgröße in Pixeln
 	\item Render-Qualität
 \end{itemize}
-Hat man diese Eigenschaften festgelegt, kann man auch schon mit dem Schnitt beginnen. Es gibt drei 
+Hat man diese Eigenschaften festgelegt, kann man auch schon mit dem Schnitt beginnen. Es gibt drei Arten des Filmschnitts. Den Rough Cut oder schnelle Schnitt, 3-Punkt-Schnitt oder der exakte Schnitt und den 4-Punkt-Schnitt oder Zeitinterpolation. Bei dem Schnitt muss man sich vorerst überlegen, ob man harte Schnitte möchte, oder ob man den Einsatz von Blenden in Erwägung zieht. Blenden dienen dazu, den Übergang von einem Bild zum anderen oder von einer Szene zu einer anderen Szene einen flüssigen Übergang zu erzeugen und um den Betrachter nicht zu verwirren.
+Es wurde auch der Einsatz von Schriften beziehungsweise Texten berücksichtigt. Wie man bei dem Quiz sehen kann, wurde bei dem einen Schüler der zweiten Klasse eine serifenlose Schriftart verwendet, wohingegen bei dem anderen Schüler eine Serifenschrift verwendet wurde. Dies sollte dem Betrachter signalisieren, dass es sich hierbei um ein anderes Thema handelt beziehungsweise, dass es sich um einen anderen Schüler als zuvor handelt.
+\subsection{Color Correction}
+\paragraph{Interview mit dem Abteilungsvorstand}
+\leavevmode \\
+Beim Dreh des Videos, wie man in der Abbildung sehen kann, hatte die Interviewerin mehr gelbe Farbinformationen, wohingegen der Abteilungsvorstand Dr. Hager eher blaustichig war und somit eher kühl wirkte. Mithilfe der Lumetri Scopes Grafiken konnte die Farbe im Bild angepasst werden.
+\paragraph{Tag der offenen Tür Video}
+\leavevmode \\
+Da bei dem Dreh unterschiedliche Lichtverhältnisse herrschten, war es notwendig in der Post Production die Color Correction durchzuführen. Jedoch war es nur von Nöten, Farbe im Gesicht hinzuzufügen und somit musste eine Maske um das Gesicht erstellt werden. Anschließend konnte mittels roter Farbtonsättigung mehr warme Farbe ins Gesicht zu "geben".
 \section{Interview mit dem Abteilungsvorstand}
 \subsection{Idee}
 Die Intention des Interviews mit dem Abteilungsvorstand Dr. Hager war es, Interessenten allgemeine Informationen über die Schule näher zu bringen. Das Ziel war es, die wichtigsten Informationen kurz und prägnant rüberzubringen, sodass der Interessent die wichtigsten Informationen ohne lang danach zu suchen mitbekommt.
