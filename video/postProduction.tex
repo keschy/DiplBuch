@@ -1,0 +1,33 @@
+\section{Post Production}
+\subsection{Aufnahmeformate}
+Bei der Auswahl des Aufnahmeformates muss man sich im Klaren sein, mit welchem Codec man aufnehmen möchte. Hierbei muss man zwischen Codecs und Containern unterscheiden. Container, welche den Videostream mittels eines Codecs digitalisieren, speichern die Videodaten auf dem Speicherchip. Audio Video Interleave (AVI), QuickTime (MOV) oder Moving Pictures Expert Groups (MPEG) sind zum Beispiel solche Containerformate. Ein Codec wandelt analoge Bilder in digitale Datenströme um. Bei der Codierung wird das Bild komprimiert, was wiederum mehr Speicherplatz zur Verfügung stellt. DivX, QuickTime H.264, Apple ProRes, Panasonic AVC-Intra oder Avid DNxHD sind typische Codecs. 
+\paragraph{MPEG}
+\leavevmode \\
+"MPEG ist ein standardisiertes Kompressionsverfahren, das sich speziell zur Datenreduktion von Bewegtbildern eignet."\footnote{\label{}https://www.film-tv-video.de/term-word/mpeg/ [Zugriff: 26.03.2018]} MPEG lässt dem Gerätehersteller freie Wahl, bezüglich der Entscheidung der Datenerzeugung. Jedoch legt MPEG das Datenformat und die Dekodierung vor. Was noch beachtet werden muss, ist, dass schlussendlich ein normgerechter MPEG-kodierter Datenstrom entstehen muss, der mit einem MPEG-Decoder gelesen und wiedergegeben werden kann. Bei dem MPEG Standard setzen sich die Einzelbilder einer Videosequenz aus einer Folge von I-, B- und P-Frames zusammen. Diese Aufeinanderfolgung wird Group of Pictures, kurz GOP, genannt. Eine Group of Pictures muss mindestens ein I-Frame enthalten. I-Frames sind Indexbilder, welche die wichtigsten Bildinformationen enthalten. "B-Frames sind  bidirektionale Bilder, also Frames, die nur die Unterschiede eines Bildes zum vorhergehenden oder folgenden Bild beinhalten."\footnote{\label{}https://www.film-tv-video.de/term-word/mpeg/ [Zugriff: 26.03.2018]} P-Frames sind Predicted Frames. Predicted Frames werden aus den vorherigen I-Frames berechnet.
+\subsection{Kompressionsverfahren}
+Bei der Bildkompression werden die Bildinformationen in 4x4, 8x8 oder 16x16 Pixeln zusammengefasst. "In einzelnen Bildern und zwischen aufeinanderfolgenden Bildern werden dann sich wiederholende Daten identifiziert." Nun können die wiederholenden Informationen gefiltert und weggelassen werden. Bei dem MPEG-2 Container wird zum Beispiel nur jedes zwölfte Bild komplett gespeichert, wobei bei den anderen Bildern nur Teile beziehungsweise Veränderungen gespeichert werden. Da nur jedes zwölfte Bild komplett gespeichert wird, ist das Risiko enorm groß, dass Artefakte, also Bildfehler, entstehen können. Die sogenannten Artefakte entstehen bei der Umwandlung von digitalen Bildern in analoge Bildsignale. 
+\subsection{Schnittprogramme}
+\paragraph{Lightworks}
+\leavevmode \\
+Lightworks ist ein lizenzfreies Videoschnittprogramm, das auf Windows, Linux und auf IOS Betriebssystemen verwendet werden kann. Lightworks bietet nicht nur die freie Version, sondern auch eine Pro Version. Die freie Version bietet dem User eine Vielzahl an importierbaren Formaten, wie zum Beispiel Apple Pro Res, AVC-Intra 50, MPEG-2 Long GOP und vieles mehr. Weiters kann man in Lightworks seine Videos mit dem Codec H.264 mit der Auflösung 1280x720p kodieren. 
+\paragraph{Adobe Premiere Pro}
+\leavevmode \\
+Adobe Premiere Pro ist eine kostenpflichtige Software, welche aber eine Vielzahl von Funktionalitäten bietet. Im Gegensatz zu Lightworks bietet Adobe Premiere Pro eine freie Auswahl, welche Formate man importieren möchte. Weiters bietet Premiere Pro eine umfangreiche Dokumentation. Zusätzlich sind Adobe Programme ähnlich aufgebaut und sind so einfach miteinander zu verknüpfen, wie zum Beispiel Premiere Pro mit Adobe After Effects. 
+\subsection{Schnitt}
+Bevor mit dem Schnitt begonnen werden kann, muss zunächst das Projektformat festgelegt werden. Bei Erstellung einer neuen Sequenz können folgende Parameter eingestellt werden
+\begin{itemize}
+	\item Bilder pro Sekunde
+	\item Pixel - Seitenverhältnis
+	\item Audio-Samplerate
+	\item Bildgröße in Pixeln
+	\item Render-Qualität
+\end{itemize}
+Hat man diese Eigenschaften festgelegt, kann man auch schon mit dem Schnitt beginnen. Es gibt drei Arten des Filmschnitts. Den Rough Cut oder schnelle Schnitt, 3-Punkt-Schnitt oder der exakte Schnitt und den 4-Punkt-Schnitt oder Zeitinterpolation. Bei dem Schnitt muss man sich vorerst überlegen, ob man harte Schnitte möchte, oder ob man den Einsatz von Blenden in Erwägung zieht. Blenden dienen dazu, den Übergang von einem Bild zum anderen oder von einer Szene zu einer anderen Szene einen flüssigen Übergang zu erzeugen und um den Betrachter nicht zu verwirren.
+Es wurde auch der Einsatz von Schriften beziehungsweise Texten berücksichtigt. Wie man bei dem Quiz sehen kann, wurde bei dem einen Schüler der zweiten Klasse eine serifenlose Schriftart verwendet, wohingegen bei dem anderen Schüler eine Serifenschrift verwendet wurde. Dies sollte dem Betrachter signalisieren, dass es sich hierbei um ein anderes Thema handelt beziehungsweise, dass es sich um einen anderen Schüler als zuvor handelt.
+\subsection{Color Correction}
+\paragraph{Interview mit dem Abteilungsvorstand}
+\leavevmode \\
+Beim Dreh des Videos, wie man in der Abbildung sehen kann, hatte die Interviewerin mehr gelbe Farbinformationen, wohingegen der Abteilungsvorstand Dr. Hager eher blaustichig war und somit eher kühl wirkte. Mithilfe der Lumetri Scopes Grafiken konnte die Farbe im Bild angepasst werden.
+\paragraph{Tag der offenen Tür Video}
+\leavevmode \\
+Da bei dem Dreh unterschiedliche Lichtverhältnisse herrschten, war es notwendig in der Post Production die Color Correction durchzuführen. Jedoch war es nur von Nöten, Farbe im Gesicht hinzuzufügen und somit musste eine Maske um das Gesicht erstellt werden. Anschließend konnte mittels roter Farbtonsättigung mehr warme Farbe ins Gesicht zu "geben".
