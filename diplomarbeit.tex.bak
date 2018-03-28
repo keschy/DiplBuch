@@ -264,7 +264,15 @@ Wien, \today
 
 \input{text/webseite.tex}
 
-\input{text/video_kerstin.tex}
+\input{video/interview.tex}
+\input{video/technik.tex}
+\input{video/kameramodelle.tex}
+\input{video/beleuchtung.tex}
+\input{video/mikrofone.tex}
+\input{video/planung.tex}
+\input{video/setting.tex}
+\input{video/postProduction.tex}
+\input{video/herausforderungen.tex}
 
 \input{text/video_niklas.tex}
 
