@@ -37,12 +37,19 @@ Die sogenannte Achtcharakteristik nimmt den Schall von vorne und hinten auf, jed
 %	\caption{Kondensatormikrofon}
 %\end{figure}
 \subsection{Dynamisches Mikrofon}
-\textit{"Bei diesem Mikrofontyp wird das Signal durch elektromagnetische Induktion erzeugt. Kurz: Der Schall trifft auf die Membran des Mikrofons und regt sie zu mechanischen Schwingungen an, die durch eine mit der Membran verbundene Spule in elektrische Spannung umgewandelt werden. Und diese kommt dann aus der (XLR-)Buchse des Mikrofons."}\footnote{\label{}https://www.delamar.de/faq/dynamisches-mikrofon-34718/ [Zugriff: 17.03.2018]} \\ \\
+\textit{"Bei diesem Mikrofontyp wird das Signal durch elektromagnetische Induktion erzeugt. Kurz: Der Schall trifft auf die Membran des Mikrofons und regt sie zu mechanischen Schwingungen an, die durch eine mit der Membran verbundene Spule in elektrische Spannung umgewandelt werden. Und diese kommt dann aus der (XLR-)Buchse des Mikrofons."}\footnote{\label{}https://www.delamar.de/faq/dynamisches-mikrofon-34718/ [Zugriff: 17.03.2018]} 
 %\begin{figure}[H]
 %	\centering
 %	\includegraphics[width=0.6\textwidth]{abb9} 
 %	\caption{Dynamisches Mikrofon}
 %\end{figure}
-Bei dem Dreh des Videos mit dem Abteilungsvorstand Dr. Hager wurde ein Mikrofon mit Kugelcharakteristik verwendet. Das Mikrofon lag in der Mitte des Tisches, um einen natürlichen Effekt zu erzeugen und um von der Interviewerin und dem Interviewten auf einem Mikrofon die Stimmen einfangen zu können.\newline
-Bei dem Tag der offenen Tür Video wurde eine Angel für die Interviewten verwendet. Hierfür wurde eine Keule beziehungsweise eine Superniere eingesetzt. Das hat den Vorteil, da bei der Aufnahme viel Hintergrundgeräusche vorhanden waren, dass weniger von den Seiten aufgenommen wird, dafür das meiste von vorne.
-Beim Quiz mit dem Absolventen und dem Schüler der zweiten Klasse wurde, wie beim ersten Interview, ein Mikrofon mit Kugelcharakteristik verwendet. Dies spiegelte nicht das typischen Interview Bild wieder, da man zum Beispiel die Ansteckmikrofone nicht gesehen hat und es so natürlicher dem Betrachter erscheinen lässt.
+\paragraph{Interview mit Abteilungsvorstand}
+\leavevmode \\
+Bei der Aufnahme des Videos mit dem Abteilungsvorstand Dr. Hager wurde das t-bone GZ 400 Grenzflächen-Mikrofon verwendet. Das Mikrofon arbeitet mit der Richtcharakteristik Superniere. Das Mikrofon wurde in die Mitte des Tisches platziert, um die Stimmen der Interviewerin und des Abteilungsvorstandes einzufangen.\newline
+Bei dem Video wurden bewusst keine Ansteckmikrofone verwendet, um nicht das typische Interview-Bild widerzuspiegeln. 
+\paragraph{Tag der offenen Tür}
+\leavevmode \\
+Bei dem Tag der offenen Tür Video wurde eine Angel für die Aufnahme der Interessenten verwendet. Hierfür wurde eine Keule beziehungsweise eine Superniere eingesetzt. Dies war deswegen notwendig, da am Tag der offenen Tür viele Hintergrundgeräusche vorhanden waren. Hätte man mit einer Kugelcharakteristik aufgenommen, hätte man die Hintergrundgeräusche dominant mitaufgenommen, im Gegensatz zu der Keule, da die Keule  hauptsächlich von vorne aufnimmt und Hintergrundgeräusche ausblendet.
+\paragraph{Video mit einem Absolvent}
+\leavevmode \\
+Beim Quiz mit dem Absolventen und dem Schüler der zweiten Klasse wurde, wie beim ersten Interview, das Grenzflächen-Mikrofon verwendet.
