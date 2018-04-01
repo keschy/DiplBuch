@@ -236,7 +236,7 @@ Wien, \today
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \cleardoublepage{}
-\setcounter{tocdepth}{2}
+%\setcounter{tocdepth}{2}
 \tableofcontents{}
 \cleardoublepage{}
 \listoftables
