@@ -17,7 +17,7 @@
     %captions=tableheading, % Beschriftung von Tabellen für Ausgabe oberhalb
                            % der Tabelle formatieren 
     %draft % Status des Dokuments (final/draft) draft hinzufügen zum anziegen 
-    %%der zeilen ende
+	%%der zeilen ende
     a4paper,DIV=14,
     BCOR=15mm,
     % captions=tablesignature,
