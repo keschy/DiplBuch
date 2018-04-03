@@ -4,14 +4,16 @@ Die richtige Belichtungszeit kann man sich mit folgender Formel berechnen: \text
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.8\textwidth]{abb2} 
-	\caption{Moir\'{e}-Effekt}
+	\caption[Moir\'{e}-Effekt]{Moir\'{e}-Effekt\footnotemark}
 \end{figure}
+\footnotetext{Quelle: https://de.wikipedia.org/wiki/Moir\%C3\%A9-Effekt\#/media/File:Moir\%C3\%A92.png}
 Bei der Beleuchtung muss man drei Positionen von den Lichtquellen der Belichtung unterscheiden. Das Licht, das von vorne auf den Gegenstand kommt, nennt man Gegenlicht. Das Licht, das von der Seite kommt, wird als Streiflicht bezeichnet, und als drittes Licht wird das Auflicht verwendet, welches von hinten auf das Objekt scheint.\footnote{\label{}vgl. Jörg Jovy, 2017, S. 236ff.}
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.7\textwidth]{abb3}
-	\caption{Zusammenspiel der Lichter}\label{fig:abb3}
+	\caption[Zusammenspiel der Lichter]{Zusammenspiel der Lichter\footnotemark}\label{fig:abb3}
 \end{figure}
+\footnotetext{Quelle: http://www.filmmachen.de/tipps-und-tricks/licht/3-punkt-beleuchtung}
 Wie man auf der Abbildung \ref{fig:abb3} erkennen kann, ist es wichtig, wie die Lichter im Verhältnis zueinander stehen. Das Führungslicht, oder auch Hauptlicht genannt, dient dazu, die Szene generell aufzuhellen. Durch die Verwendung des Führungslichts entstehen Schatten, die wiederrum mit dem Fülllicht reduziert werden. Um den Gegenstand auch optisch vom Hintergrund abzuheben, kommt das sogenannte Spitzlicht zum Einsatz. \footnote{\label{}vgl. http://www.filmmachen.de/tipps-und-tricks/licht/3-punkt-beleuchtung [Zugriff: 17.03.2018]}
 \paragraph{Softbox}
 \leavevmode \\

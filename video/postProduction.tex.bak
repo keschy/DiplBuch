@@ -8,8 +8,9 @@ Die Komprimierung des Videosignals erfolgte bei allen vier Videos mittels dem H.
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.8\textwidth]{abb27} 
-	\caption{Group of Pictures}
+	\caption[Group of Pictures]{Group of Pictures\footnotemark}
 \end{figure}
+\footnotetext{Quelle: https://www.itwissen.info/GOP-group-of-picture.html}
 Der QuickTime Container ist im Grunde, wie das MPEG Containerformat aufgebaut. Jedoch ist QuickTime ein eigenes Containerformat von Apple.\footnote{vgl. https://www.film-tv-video.de/term-word/mpeg/ [Zugriff: 26.03.2018]}
 \subsection{Kompressionsverfahren}
 Bei der Bildkompression werden die Bildinformationen in 4x4, 8x8 oder 16x16 Pixeln zusammengefasst. "In einzelnen Bildern und zwischen aufeinanderfolgenden Bildern werden dann sich wiederholende Daten identifiziert." (Jörg Jovy, 2017, S. 117)\newline
@@ -112,4 +113,4 @@ Am Tag der offenen Tür wurde der Eingangsbereich der Schule für etwa 20 Minute
 \subsection{Musik}
 Bei dem Tag der offenen Tür Video und dem Quiz wurde lizenzfreie Musik eingebunden. Diese stammt von Soundcloud. Die Verwendung von Musik lockert das Schauen eines Videos auf und löst beim Menschen Spannung, Mitleid, Angst oder Entspannung aus. Weiters dient die Musik geräuschlose Szenen zu überbrücken und sie so angenehmer machen.\footnote{vgl. Jörg Jovy, 2017, S. 365}
 \subsection{Export}
-Bei dem Export eines Videos in Adobe Premiere muss man sich zuerst für ein Format entscheiden, in dem man das Video exportieren möchte. Heutzutage wird der H.264 von allen Browsern unterstützt und deswegen wurden auch die Videos in dem Codec kodiert. Jedoch unterstützen veraltete Mozilla Firefox Browser keinen H.264 Codec, sondern den Web.m Codec. Um zu gewährleisten, dass sich jeder User die Videos ansehen kann, wurden die Videos auch im Web.m Codec kodiert. Da Adobe Premiere den Web.m Codec nicht implementiert hat, war es notwendig diesen mittels einer msi Datei einzubinden. \footnote{vgl. https://helgeklein.com/blog/2017/12/browser-video-codecs-formats-hardware-acceleration/ [Zugriff: 02.04.2018]}\footnote{vgl.  [Zugriff: 02.04.2018]}
+Bei dem Export eines Videos in Adobe Premiere muss man sich zuerst für ein Format entscheiden, in dem man das Video exportieren möchte. Heutzutage wird der H.264 von allen Browsern unterstützt und deswegen wurden auch die Videos in dem Codec kodiert. Jedoch unterstützen veraltete Mozilla Firefox Browser keinen H.264 Codec, sondern den Web.m Codec. Um zu gewährleisten, dass sich jeder User die Videos ansehen kann, wurden die Videos auch im Web.m Codec kodiert. Da Adobe Premiere den Web.m Codec nicht implementiert hat, war es notwendig diesen mittels einer msi Datei einzubinden. \footnote{vgl. https://helgeklein.com/blog/2017/12/browser-video-codecs-formats-hardware-acceleration/ [Zugriff: 02.04.2018]}\footnote{vgl. https://www.soeren-hentzschel.at/firefox/mozilla-integriert-openh264-video-codec-von-cisco-in-firefox-33/ [Zugriff: 02.04.2018]}
