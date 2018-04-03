@@ -125,33 +125,29 @@ Abgesehen von der Rolle der Figur als Mentor, kommt sie auch noch in dem Animati
 Die Story ist in zehn Lektionen aufgeteilt. Dabei arbeitet sich der User stufenweise in die Medientechnik ein. Es beginnt mit einer Einführung und geht Schritt für Schritt die vorgegebenen Bereiche der Medientechnik durch und endet anschließend mit einem humorvollen Video. Bevor die Story beginnt, wird der User darauf hingewiesen, dass die Webseite Audio beinhaltet. 
 \begin{figure}[H]
 	\centering				\includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb8} 
-	\caption{Bevor der User zu den Lektionen kommt, wird er aufgefordert die Lautstärke des Geräts zu erhöhen}
+	\caption{Bevor die Lektion beginnt}
 \end{figure}
 Die Webseite wird vom Charakter, Rene Weg, vertont. 
 Für das Grundgerüst wurde das Framework Slick Slider verwendet. Dabei wurde eine Struktur erstellt, wo sich auf einer Seite der Text und auf der anderen Seite die Figur befindet. 
 \begin{figure}[H]
 	\centering				\includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb9} 
-	\caption{Bevor der User zu den Lektionen kommt, wird er aufgefordert die Lautstärke des Geräts zu erhöhen}
+	\caption{Aufbau der Lektionen}
 \end{figure}
 Zusätzlich befinden sich unter dem Text vier Buttons, welche für das Weiterschalten und für das Pausieren und Abspielen gedacht sind. 
 \begin{figure}[H]
 	\centering				\includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb9} 
 	\caption{Bevor der User zu den Lektionen kommt, wird er aufgefordert die Lautstärke des Geräts zu erhöhen}
 \end{figure}
-
-In den beiden Abbildungen ist die Struktur der Webseite zu sehen. Jedes Slide hat eine eigene ID und zwei Kindelemente, welche sich jeweils links und rechts befinden und den Text und die Figur beinhalten. Das Element mit der Klasse „groupofbuttons“ beinhaltet die Buttons, mit denen man zum nächsten Slide gelangt. Klickt man auf die Next und Previous Buttons, kommt man zum nächsten Slide. Sobald man auf den Pause-Button klickt, wird das Audio pausiert und kann durch den Play-Button wieder abgespielt werden. Will man sich das Audio noch einmal anhören, so kann man ebenfalls auf den Play-Button klicken. Die große Problematik beim Aufbau war es, pro Slide ein einziges Audio-File abzuspielen. Öfters ist es vorgekommen, dass beim Weiterklicken, das vorherige Audio-File noch mitspielt. Um dies zu verhindern, wurden if-Statements eingebaut, welche überprüfen, ob sich der User in einem bestimmten Slide befinden. Befindet sich der User beispielsweise im zweiten Slide, wird das zugehörige Audio-File abgespielt. Sobald man das zweite Slide verlässt, pausiert sich das Audio-File, sodass sich keine Audio-Files überkreuzen. 
-
-
-
-Nicht jedes Slide hat ein Audio-File, da es Slides gibt, welche den User darüber informieren, welche Lektion gerade bearbeitet wird. Bei diesen Slides ändert sich die Struktur, denn die Play und Pause-Buttons verschwinden und die Buttons zum Weiterschalten rücken in die Mitte. Außerdem gibt es Slides, welche Videos beinhalten und nicht vertont wurden, welche ebenfalls keine Play und Pause-Buttons enthalten. 
-
- 
-
-Am Ende der Lektion wurde dem Weiterschalt-Button ein Link zur nächsten Lektion hinzugefügt. 
-
- 
-
-Hierbei wird der letzte Slide ermittelt und die Buttons zum Weiterschalten ein Link hinzugefügt. Durch die im Bild abgebildete Methode, muss pro HTML-Dokument nur der Link zum nächsten HTML-Dokument angegeben werden. 
+In der Abbildung ist die HTML-Struktur der Lektionen zu sehen. Eine Slide wird durch die id "slide[nummer]" initialisiert. Dieses Slide beinhaltet zwei Div Boxen, welche sich jeweils rechts und links befinden. In der linken Div Box befindet sich der Text, welches der Charakter spricht, sowie die Buttons zum Weiterschalten, Pausieren und Abspielen. In der rechten Div Box ist die Figur mit ihren verschiedenen Gestiken zu sehen. Jeder neuen Geste, wurde eine neue CSS Klasse geschrieben, damit die Figur immer auf der selben Position steht.
+\includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb10} 
+	\caption{Aufbau der Slides}
+\end{figure}
+Klickt man auf die Next und Previous Buttons, kommt man zum nächsten Slide. Sobald man auf den Pause-Button klickt, wird das Audio pausiert und kann durch den Play-Button wieder abgespielt werden. Will man sich das Audio noch einmal anhören, so kann man ebenfalls auf den Play-Button klicken. Die große Problematik beim Aufbau war es, pro Slide ein einziges Audio-File abzuspielen. Öfters ist es vorgekommen, dass beim Weiterklicken, das vorherige Audio-File noch mitgespielt hat. Um dies zu verhindern, wurden if-Statements eingebaut, welche überprüfen, ob sich der User in einem bestimmten Slide befindet. Befindet sich der User beispielsweise im zweiten Slide, wird das zugehörige Audio-File abgespielt. Sobald man das zweite Slide verlässt, pausiert sich das Audio-File, sodass zwei oder mehrere Audio Files nicht gleichzeitig abgespielt werden. \leavevmode \\
+Nicht jedes Slide hat ein Audio-File, da es Slides gibt, welche den User darüber informieren, welche Lektion gerade bearbeitet wird. Bei diesen Slides ändert sich die Struktur, denn die Play und Pause-Buttons verschwinden und die Buttons zum Weiterschalten rücken in die Mitte. Außerdem gibt es Slides, welche Videos beinhalten und ebenfalls keine Play und Pause-Buttons enthalten. Am Ende der Lektion wurde dem Weiterschalt-Button ein Link zur nächsten Lektion hinzugefügt. 
+\includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb11} 
+	\caption{Ermittlung des letzten Slides}
+\end{figure}
+Hierbei wird der letzte Slide ermittelt und den Buttons zum Weiterschalten ein Link hinzugefügt. Durch die im Bild abgebildete Methode, muss pro HTML-Dokument nur der Link zum nächsten HTML-Dokument angegeben werden. 
 
 
 In den folgenden Absätzen, werden alle Lektionen zusammengefasst.
