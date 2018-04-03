@@ -133,18 +133,13 @@ Für das Grundgerüst wurde das Framework Slick Slider verwendet. Dabei wurde ei
 	\centering				\includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb9} 
 	\caption{Aufbau der Lektionen}
 \end{figure}
-Zusätzlich befinden sich unter dem Text vier Buttons, welche für das Weiterschalten und für das Pausieren und Abspielen gedacht sind. 
-\begin{figure}[H]
-	\centering				\includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb9} 
-	\caption{Bevor der User zu den Lektionen kommt, wird er aufgefordert die Lautstärke des Geräts zu erhöhen}
-\end{figure}
+Zusätzlich befinden sich unter dem Text vier Buttons, welche für das Weiterschalten und für das Pausieren und Abspielen gedacht sind. \leavevmode \\
 In der Abbildung ist die HTML-Struktur der Lektionen zu sehen. Eine Slide wird durch die id "slide[nummer]" initialisiert. Dieses Slide beinhaltet zwei Div Boxen, welche sich jeweils rechts und links befinden. In der linken Div Box befindet sich der Text, welches der Charakter spricht, sowie die Buttons zum Weiterschalten, Pausieren und Abspielen. In der rechten Div Box ist die Figur mit ihren verschiedenen Gestiken zu sehen. Jeder neuen Geste, wurde eine neue CSS Klasse geschrieben, damit die Figur immer auf der selben Position steht.
 \begin{figure}[H]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb10} 
 	\caption{Aufbau der Slides}
 \end{figure}
-
 Klickt man auf die Next und Previous Buttons, kommt man zum nächsten Slide. Sobald man auf den Pause-Button klickt, wird das Audio pausiert und kann durch den Play-Button wieder abgespielt werden. Will man sich das Audio noch einmal anhören, so kann man ebenfalls auf den Play-Button klicken. Die große Problematik beim Aufbau war es, pro Slide ein einziges Audio-File abzuspielen. Öfters ist es vorgekommen, dass beim Weiterklicken, das vorherige Audio-File noch mitgespielt hat. Um dies zu verhindern, wurden if-Statements eingebaut, welche überprüfen, ob sich der User in einem bestimmten Slide befindet. Befindet sich der User beispielsweise im zweiten Slide, wird das zugehörige Audio-File abgespielt. Sobald man das zweite Slide verlässt, pausiert sich das Audio-File, sodass zwei oder mehrere Audio Files nicht gleichzeitig abgespielt werden. \leavevmode \\
 Nicht jedes Slide hat ein Audio-File, da es Slides gibt, welche den User darüber informieren, welche Lektion gerade bearbeitet wird. Bei diesen Slides ändert sich die Struktur, denn die Play und Pause-Buttons verschwinden und die Buttons zum Weiterschalten rücken in die Mitte. Außerdem gibt es Slides, welche Videos beinhalten und ebenfalls keine Play und Pause-Buttons enthalten. Am Ende der Lektion wurde dem Weiterschalt-Button ein Link zur nächsten Lektion hinzugefügt. 
 \begin{figure} [H]
@@ -152,14 +147,22 @@ Nicht jedes Slide hat ein Audio-File, da es Slides gibt, welche den User darübe
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb11} 
 	\caption{Ermittlung des letzten Slides}
 \end{figure}
-
 Hierbei wird der letzte Slide ermittelt und den Buttons zum Weiterschalten ein Link hinzugefügt. Durch die im Bild abgebildete Methode, muss pro HTML-Dokument nur der Link zum nächsten HTML-Dokument angegeben werden. \leavevmode \\
 In den folgenden Absätzen, werden alle Lektionen zusammengefasst. 
 \paragraph{Lektion 1}\leavevmode \\
 In der ersten Lektion wird der Charakter, Rene Weg, vorgestellt. Nachdem er sich humorvoll vorgestellt hat, werden Fragen rund um die HTL beantwortet. Um dies veranschaulichen zu können, wird ein Animationsvideo vorgeführt. Die erste Lektion dient nur als Einführung in eine HTL und soll die User mit Rene Weg bekannt machen. 
-\paragraph{Lektion 2}
+\begin{figure} [H]
+	\centering
+\includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb12} 
+	\caption{Rene Weg stellt sich vor}
+\end{figure}
+\paragraph{Lektion 2} \leavevmode \\
 Da die HTL etwas Neues für die User ist und sie nicht wissen, was ein Abteilungsvorstand ist, geht es in der zweiten Lektion um ihn. Dabei wird erklärt, was ein Abteilungsvorstand ist. Außerdem wird ein Interview mit dem Abteilungsvorstand der HTL Rennweg, Dr. Gerhard Hager, gezeigt. 
-
+\begin{figure} [H]
+	\centering
+\includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb13} 
+	\caption{Rene Weg stellt den Abteilungsvorstand vor}
+\end{figure}
 \paragraph{Lektion 3}
 Wenn man im Internet nach der Medientechnik recherchiert, findet man komplexe Erklärungen, die sich teilweise widersprechen. Aus dem Grund, hat sich das Team dazu entschlossen in der dritten Lektion die Medientechnik zu erklären. Diese Lektion ist die einzige Lektion, in der es keine interaktiven Elemente gibt. Rene Weg vergleicht dabei die Größe der Medientechnik, mit der des Universums und bezieht sich somit auf das „Space-Theme“. 
 
