@@ -113,25 +113,31 @@ Das Team hat eine eigene E-Mail-Adresse erstellt, welches die ausgefüllten Kont
 	\caption{Die Kontaktseite}
 \end{figure}
 \section{Storytelling} 
-“Kinder verpacken Ihre Ideen und Gedanken oftmals in Geschichten, um uns Erwachsene damit ihre Welt zu erklären. Als Erwachsene wiederum müssen wir es wieder lernen, Geschichten zu erzählen.“   
-
-
+\begin{quote}
+“Kinder verpacken Ihre Ideen und Gedanken oftmals in Geschichten, um uns Erwachsene damit ihre Welt zu erklären. Als Erwachsene wiederum müssen wir es wieder lernen, Geschichten zu erzählen.“  
+\end{quote}
 Storytelling vermittelt durch den Einsatz von Geschichten Information. Die Geschichten können real oder konstruiert sein, es muss lediglich gut ankommen und im Kopf der Nutzer bleiben. Weiters dient Storytelling dazu, die Aufmerksamkeit des Nutzers auf eine kreative Weise zu ergattern. Die Informationen werden dabei anschaulich gemacht, um die Botschaft ankommen zu lassen. Wichtig ist die Erstellung eines oder mehreren Protagonisten und einem Problem. Im Laufe der Geschichte soll sich das Problem lösen, aber das muss nicht unbedingt sein. Eine gute Geschichte führt dazu, dass sich die Nutzer mit der Thematik auseinandersetzen und emotional aufgeladen sind. Weiters sorgt eine gute Story für Begeisterung. Es gibt verschiedene Arten von Storytelling, welche sich von Büchern bis hin zu Webseiten erstreckt. Das Internet bietet hier eine große Möglichkeit für das Erzählen von Geschichten. Wichtig ist vor allem die Interaktivität, damit es nicht zu schnell langweilig wird.  Für das Team war es wichtig, die Zielgruppe durch die Geschichte zu erreichen. Dabei sollten Klischees vermieden werden und die Nutzer sollten sich mit dem Erzähler identifizieren können. 
-
 \subsection{Story}
-Project Insight benutzt klassische Storytelling-Methoden, um Nutzer über die Medientechnik zu informieren. Dabei dachte sich das Team die Figur, Rene Weg, aus. Dieser ist ein Absolvent der HTL Rennweg und hat dem Nutzer gegenüber eine Mentor-Funktion. Rene Weg ist eine sarkastische und humorvolle Figur, welcher dem Nutzer die Medientechnik, auf eine spielerische und lockere Art und Weise, präsentiert. Es war dem Team sehr wichtig, ein paar Witze in die Story einzubinden, um dem Nutzer das Gefühl zu geben, dass man an der HTL Rennweg auch Spaß haben kann. Durch verschiedenste Gestiken und Mimik, wird Leben in die Figur gehaucht. 
-
+Project Insight benutzt klassische Storytelling-Methoden, um Nutzer über die Medientechnik zu informieren. Dabei dachte sich das Team die Figur, Rene Weg, aus. Dieser ist ein Absolvent der HTL Rennweg und hat dem Nutzer gegenüber eine Mentor-Funktion. Rene Weg ist eine sarkastische und humorvolle Figur, welcher dem Nutzer die Medientechnik, auf eine spielerische und lockere Art und Weise, präsentiert. Es war dem Team sehr wichtig, ein paar Witze in die Story einzubinden, um dem Nutzer das Gefühl zu geben, dass man an der HTL Rennweg auch Spaß haben kann. Durch verschiedenste Gestiken und Mimik, wird Leben in die Figur gehaucht. \leavevmode \\
 Abgesehen von der Rolle der Figur als Mentor, kommt sie auch noch in dem Animationsvideo (siehe Kapitel Animationsvideo) vor. 
 
 \subsubsection{Aufbau}
-Die Story ist in zehn Lektionen aufgeteilt. Dabei arbeitet sich der User stufenweise in die Medientechnik ein. Es beginnt mit einer Einführung und geht Schritt für Schritt die vorgegebenen Bereiche der Medientechnik durch und endet anschließend mit einem humorvollen Video. Bevor die Story beginnt, wird der User darauf hingewiesen, dass die Webseite Audio beinhaltet. Die Webseite wird vom Charakter, Rene Weg, vertont. 
-Für das Grundgerüst wurde das Framework Slick Slider verwendet. Dabei wurde ein Grid erstellt, wo sich auf einer Seite der Text und auf der anderen Seite die Figur befindet. 
-
-(BILD)
-
+Die Story ist in zehn Lektionen aufgeteilt. Dabei arbeitet sich der User stufenweise in die Medientechnik ein. Es beginnt mit einer Einführung und geht Schritt für Schritt die vorgegebenen Bereiche der Medientechnik durch und endet anschließend mit einem humorvollen Video. Bevor die Story beginnt, wird der User darauf hingewiesen, dass die Webseite Audio beinhaltet. 
+\begin{figure}[H]
+	\centering				\includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb8} 
+	\caption{Bevor der User zu den Lektionen kommt, wird er aufgefordert die Lautstärke des Geräts zu erhöhen}
+\end{figure}
+Die Webseite wird vom Charakter, Rene Weg, vertont. 
+Für das Grundgerüst wurde das Framework Slick Slider verwendet. Dabei wurde eine Struktur erstellt, wo sich auf einer Seite der Text und auf der anderen Seite die Figur befindet. 
+\begin{figure}[H]
+	\centering				\includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb9} 
+	\caption{Bevor der User zu den Lektionen kommt, wird er aufgefordert die Lautstärke des Geräts zu erhöhen}
+\end{figure}
 Zusätzlich befinden sich unter dem Text vier Buttons, welche für das Weiterschalten und für das Pausieren und Abspielen gedacht sind. 
-
- 
+\begin{figure}[H]
+	\centering				\includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb9} 
+	\caption{Bevor der User zu den Lektionen kommt, wird er aufgefordert die Lautstärke des Geräts zu erhöhen}
+\end{figure}
 
 In den beiden Abbildungen ist die Struktur der Webseite zu sehen. Jedes Slide hat eine eigene ID und zwei Kindelemente, welche sich jeweils links und rechts befinden und den Text und die Figur beinhalten. Das Element mit der Klasse „groupofbuttons“ beinhaltet die Buttons, mit denen man zum nächsten Slide gelangt. Klickt man auf die Next und Previous Buttons, kommt man zum nächsten Slide. Sobald man auf den Pause-Button klickt, wird das Audio pausiert und kann durch den Play-Button wieder abgespielt werden. Will man sich das Audio noch einmal anhören, so kann man ebenfalls auf den Play-Button klicken. Die große Problematik beim Aufbau war es, pro Slide ein einziges Audio-File abzuspielen. Öfters ist es vorgekommen, dass beim Weiterklicken, das vorherige Audio-File noch mitspielt. Um dies zu verhindern, wurden if-Statements eingebaut, welche überprüfen, ob sich der User in einem bestimmten Slide befinden. Befindet sich der User beispielsweise im zweiten Slide, wird das zugehörige Audio-File abgespielt. Sobald man das zweite Slide verlässt, pausiert sich das Audio-File, sodass sich keine Audio-Files überkreuzen. 
 
