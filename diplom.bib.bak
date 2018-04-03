@@ -66,5 +66,12 @@ url = {https://github.com/Digital-Media/HagenbergThesis},
 title={Hagenberg LaTeX Thesis Template}
 }
 
+@book{joerg,
+	note = {S. 109f.},
+	author = {vgl. J\"{o}rg Jovy},
+	publisher = {Rheinwerk Design},
+	title = {Digital filmen},
+	year = {2017}
+}
 
 
