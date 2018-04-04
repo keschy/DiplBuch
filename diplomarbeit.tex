@@ -1,13 +1,13 @@
 \documentclass[
     headings=optiontotocandhead,% Erweiterung für das optionale Argument der
                                 % Gliederungsbefehle aktiviert.
-    oneside,
+    twoside,
     numbers=noenddot,% Keine Punkte am Ende der Gliederungsnummern und davon
                      % abgeleiteten Nummern
     toc= %Flache TOC
     12pt, % Schriftgröße 
     titlepage, % es wird eine Titelseite verwendet 
-    parskip=false, % Abstand zwischen Absätzen (ganze Zeile) 
+    parskip=full, % Abstand zwischen Absätzen (ganze Zeile) 
     listof=totoc, % Verzeichnisse im Inhaltsverzeichnis aufführen 
     listof=flat, % mehr Abstand für grosse Zahlen
     numbers=noenddot, % kein Punkt am Ende bei N7ummern 
@@ -17,7 +17,7 @@
     %captions=tableheading, % Beschriftung von Tabellen für Ausgabe oberhalb
                            % der Tabelle formatieren 
     %draft % Status des Dokuments (final/draft) draft hinzufügen zum anziegen 
-	%%der zeilen ende
+    %%der zeilen ende
     a4paper,DIV=14,
     BCOR=15mm,
     % captions=tablesignature,
@@ -34,6 +34,7 @@
 \usepackage{listings}
 \usepackage{blindtext}
 
+
 %% Aufzählungen nicht so weit einrücken
 \usepackage[inline]{enumitem}
 %\setitemize{leftmargin=*} 
@@ -45,8 +46,6 @@
 \usepackage{xspace}
 
 \usepackage{graphicx}
-
-\usepackage{chngcntr}
 
 %%? \usepackage{textcomp}
 \usepackage[hyphens]{url}
@@ -144,7 +143,7 @@
  breaklinks=true,pdfborder={0 0 0},backref=false,colorlinks=false]
  {hyperref}
 \hypersetup{pdftitle={Insight},
- pdfauthor={Hatice Akyokus},
+ pdfauthor={Wer auch immer},
  pdfsubject={Diplomarbeit},
  pdfkeywords={dies, das}}
 \urlstyle{same} % don't use monospace font for urls
@@ -166,7 +165,6 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
-
 %% wir schreiben keine Umlaut mit "a "o
 \shorthandoff{"}
 %% mit kapitelautor kann man den Autor festlegen oder auf leer setzen - steht dann in der Fußzeile.
@@ -239,7 +237,7 @@ Wien, \today
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \cleardoublepage{}
-%\setcounter{tocdepth}{2}
+\setcounter{tocdepth}{2}
 \tableofcontents{}
 \cleardoublepage{}
 \listoftables
@@ -267,15 +265,7 @@ Wien, \today
 
 \input{text/webseite.tex}
 
-\input{video/interview.tex}
-\input{video/technik.tex}
-\input{video/kameramodelle.tex}
-\input{video/beleuchtung.tex}
-\input{video/mikrofone.tex}
-\input{video/planung.tex}
-\input{video/setting.tex}
-\input{video/postProduction.tex}
-\input{video/herausforderungen.tex}
+\input{text/video_kerstin.tex}
 
 \input{text/video_niklas.tex}
 
@@ -294,7 +284,7 @@ Zusätzlich sollte es geben:
 
 %% Flattersatz -- damit werden die langen URLs besser umgebrochen
 \raggedright %% eventuell auskommentieren
-\bibliographystyle{unsrtdin}%Alternative unsrtdin - Nummern im Text aufsteigend
+\bibliographystyle{plaindin}%Alternative unsrtdin - Nummern im Text aufsteigend
 \bibliography{diplom}
 
 
