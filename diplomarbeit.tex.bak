@@ -294,7 +294,7 @@ Zusätzlich sollte es geben:
 
 %% Flattersatz -- damit werden die langen URLs besser umgebrochen
 \raggedright %% eventuell auskommentieren
-\bibliographystyle{unsrtdin}%Alternative unsrtdin - Nummern im Text aufsteigend
+\bibliographystyle{plaindin}%Alternative unsrtdin - Nummern im Text aufsteigend
 \bibliography{diplom}
 
 
