@@ -67,7 +67,7 @@ url = {https://github.com/Digital-Media/HagenbergThesis},
 title={Hagenberg LaTeX Thesis Template}
 }
 
-<<<<<<< HEAD
+---NIKLAS---
 @online{corporate,
 	lastchecked = {2018-04-01},
 	title = {Corporate Design},
@@ -361,10 +361,12 @@ title={Hagenberg LaTeX Thesis Template}
 	title = {Allgemeines über Cubase},
 	url = {https://www.steinberg.net/de/products/cubase/cubase\_musikproduktionssoftware.html}
 }
-=======
+---hatice---
+
+---kerstin---
 @book{joerg,
 	note = {S. 109f.},
-	author = {vgl. J\"{o}rg Jovy},
+	author = {J\"{o}rg Jovy},
 	publisher = {Rheinwerk Design},
 	title = {Digital filmen},
 	year = {2017}
@@ -372,7 +374,7 @@ title={Hagenberg LaTeX Thesis Template}
 
 @book{aspect,
 	note = {S. 108, S. 572},
-	author = {vgl. J\"{o}rg Jovy},
+	author = {J\"{o}rg Jovy},
 	publisher = {Rheinwerk Design},
 	title = {Digital filmen},
 	year = {2017} 
@@ -384,6 +386,7 @@ url = {https://gwegner.de/know-how/verwirrung-um-die-frameraten-24-fps-25-fps-30
 title={Verwirrung um die Frameraten}
 }
 
+---niklas---
 @online{auda,
 	lastchecked = {2018-04-01},
 	title = {Allgemeines über Audacity},
