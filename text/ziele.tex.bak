@@ -1,0 +1,85 @@
+\chapter{Ziele}
+\renewcommand{\kapitelautor}{Autor: Hatice Akyokus}
+Ziel unserer Diplomarbeit ist es, Jugendlichen der Unterstufe die Medientechnik näherzubringen. Dabei greift das Team auf klassische Storytelling-Methoden zurück, welche die Spannung, und den Spaß erhöhen sollen.\\ Folgende Ziele wurden im Diplomarbeitsantrag definiert:
+
+\section{Muss-Ziele}
+\begin{enumerate}
+\item RE-M 1 Webseite\\
+Eine Webseite ist erstellt.\\
+Auf der Webseite kann sich der Nutzer aussuchen, ob er sich nur Informationen durchlesen, oder auf eine interaktive Weise Informationen über die Schule erfahren möchte. Hierbei werden zwei Buttons angezeigt, wobei beim Klick auf einem Button ein pdf-File heruntergeladen wird, welches Informationen enthält. Die Webseite enthält interaktive Elemente, gibt dem Nutzer die Möglichkeit die Medientechnik besser kennenzulernen und ist in verschiedenen Ebenen aufgebaut.
+\item RE-M 2 Videos auf der Webseite\\
+Die Videos sind auf der Webseite vorhanden.
+Die gedrehten Videos sind auf der Webseite ersichtlich.
+\item RE-M 3 Kontaktdaten\\
+Die Kontaktdaten sind auf der Webseite vorhanden.\\
+Bei Fragen können sich Nutzer, per E-Mail melden. Diese wird von schulinternen Personen betreut und ist jederzeit erreichbar. Außerdem befinden sich weitere Kontaktdaten wie Adresse und Telefonnummer auf der Webseite.
+\item RE-M 4 Corporate Design\\
+Ein Corporate Design ist erstellt.\\
+Ein Corporate Design, welche die Farben, Schriftarten und das Logo der Webseite bestimmt, wird erstellt. Diese wird als Anhaltspunkt verwendet und ist als pdf-Datei verfügbar.
+\item RE-M 5 Responsive Design\\
+Die Webseite ist responsive ausgeführt.\\
+Die Webseite ist responsive ausgeführt und kann auf mobilen und Desktop-Geräten bedient werden. 
+\item RE-M 6 Drehbuch\\
+Ein Drehbuch ist für das Tag der offenen Tür und Schülervideo erstellt.\\
+Ein Drehbuch wird geschrieben. Dieses beinhaltet:\\
+\begin{itemize}
+\item Was gefilmt wird
+\item Wie es gefilmt wird
+\item Gesprochener Text 
+\item Gebrauchtes Equipment
+\item Dresscode
+\end{itemize}
+\item RE-M 7 Storyboard\\
+Ein Storyboard für das Animationsvideo ist erstellt.\\
+Ein Storyboard für das Animationsvideo wird erstellt um die Realisierung so einfach wie möglich zu gestalten.
+\item RE-M 8 Genehmigung \\
+Eine Genehmigung für das Filmen ist eingeholt.\\
+Eine Drehgenehmigung wird beim Direktor eingeholt. Beim Filmen in den Klassenräumen wird ebenfalls um Erlaubnis gefragt, falls Schüler auf dem Material zu sehen sein sollten.
+\item RE-M 9 Fragenkatalog\\
+Ein Fragenkatalog ist erstellt.\\
+Ein Fragenkatalog, welches die Fragen zum Interviewen beinhaltet, wird erstellt. Dabei ist zwischen den Fragen die an einen Medientechniklehrer und denen die an den Abteilungsvorstand gestellt werden, zu unterscheiden.
+\item RE-M 10 Animationsvideo \\
+Ein Animationsvideo ist erstellt.\\
+Das Animationsvideo ist das erste Video, welches angezeigt wird. Dieses Video thematisiert allgemeine Fakten über die Schule und die Medientechnik. Das Video soll informativ, aber auch auflockernd wirken.
+\item RE-M 11 Tag der offenen Tür\\
+Ein Video ist am Tag der offenen Tür gedreht.\\
+Am Tag der offenen Tür werden Eltern und Kinder nach ihrem ersten Eindruck befragt und gefilmt. Dabei wird auch einen Einblick in den Tag der offenen Tür geboten. Dieses Video beinhaltet außerdem zwei Interviews. Die Szenen werden dem Drehbuch entsprechend gefilmt.
+\item RE-M 12 Interview\\
+Zwei Interviews sind durchgeführt.\\
+Ein Medientechniklehrer und der Abteilungsvorstand der Medientechnik werden interviewt. Die Fragen werden aus dem Fragenkatalog entnommen.
+\item RE-M 13 Interviewer/in\\
+Zwei Interviews sind durchgeführt.\\
+Ein Medientechniklehrer und der Abteilungsvorstand der Medientechnik werden interviewt. Die Fragen werden aus dem Fragenkatalog entnommen.
+\item RE-M 14 Voice-Over\\
+Ein Voice-Over ist vertont.\\
+Das Voice-Over beinhaltet den gesprochenen Text, welcher im Drehbuch festgelegt wurde. Dieser wird ins Video in den entsprechenden Stellen eingebunden.
+\item RE-M 15 Schnitt \\
+Das Video ist geschnitten.\\
+Das Video wird dem Drehbuch entsprechend geschnitten.
+\item RE-M 16 Color-Correction\\
+Color-Correction ist durchgeführt.\\
+Um die Belichtung und Farbe gekonnt in Szene zu setzen, wird Color-Correction durchgeführt. Hierbei wird darauf geachtet im natürlichen Bereich zu bleiben um das Video authentisch wie möglich wirken zu lassen.
+\item RE-M 17 Interview mit Schülern\\
+Ein Interview mit einem ehemaligen Schüler der Schule und einem Schüler der zweiten Klasse ist durchgeführt. \\
+Ein ehemaliger Schüler und ein Schüler der zweiten Klasse müssen gemeinsam Fragen beantworten und die Antwort auf eine kleine Tafel schreiben und anschließend herzeigen und die Antwort begründen.
+\item RE-M 18 FAQ\\
+Ein FAQ ist erstellt.\\
+Auf der Webseite befinden sich FAQ’s, um häufig gestellte Fragen zu beantworten.
+\item RE-M 19 Visitenkarten\\
+Visitenkarten sind erstellt und ausgedruckt.\\
+Es werden Visitenkarten erstellt und am Tag der offenen Türe verteilt, um Aufmerksamkeit für die Diplomarbeit zu erwecken.
+\item RE-M 20 Schulleitung \\
+Die Schulleitung ist in die Diplomarbeit involviert.\\
+Die Kommunikation, die Planung, das rechtliche Abklären und der Einfluss in das Content-Design, erfolgt mit der Schulleitung. 
+\end{enumerate}
+
+\section{Optionale Ziele}
+Dabei wurden folgende optionale Ziele festgelegt:
+\begin{enumerate}
+\item RE-O 1 Interaktivität erhöhen \\
+Mehrere interaktive Elemente sind vorhanden.\\
+Die Webseite wird ausgebaut um mehrere interaktive Elemente einzubauen. Hierbei wird dem Nutzer die Komplexität der Medientechnik gezeigt.
+\item RE-O 2 Quiz\\
+Ein Quiz ist erstellt.\\
+Auf der ersten Ebene wird der Nutzer aufgefordert ein Quiz zu machen. In diesem Quiz kann dieser herausfinden, ob er eher für die Medientechnik oder die Netzwerktechnik geeignet ist.
+\end{enumerate}
