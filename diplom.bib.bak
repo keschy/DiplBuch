@@ -6,26 +6,26 @@
 	year = {1991}
 }
 
-@misc{latexKomp,
+@online{latexKomp,
 	lastchecked = {2014-09-14},
 	title = {LaTeX-Kompendium -- Wikibooks, Sammlung freier Lehr-, Sach- und Fachb\"{u}cher},
 	url = {http://de.wikibooks.org/wiki/LaTeX-Kompendium}
 }
 
-@misc{quelle,
+@online{quelle,
 	lastchecked = {2014-09-01},
 	title = {Quellenangabe -- Wikipedia},
 	url = {http://de.wikipedia.org/wiki/Quellenangabe#.C3.96sterreich}
 }
 
-@misc{wiki:quelle,
+@online{wiki:quelle,
 	author = {Wikipedia},
 	lastchecked = {2014-09-14},
 	title = {Quellenangabe --- Wikipedia{,} Die freie Enzyklopädie},
 	url = {http://de.wikipedia.org/w/index.php?title=Quellenangabe&oldid=131343956}
 }
 
-@misc{ wiki:zitat,
+@online{ wiki:zitat,
    author = "Wikipedia",
    title = "Zitat --- Wikipedia{,} Die freie Enzyklopädie",
    url = "http://de.wikipedia.org/w/index.php?title=Zitat&oldid=134064196",
@@ -33,7 +33,7 @@
  }
 }
 
-@misc{ris57,
+@online{ris57,
 	lastchecked = {2014-09-14},
 	title = {Urheberrechtsgesetz},
 	url = {http://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40041632/NOR40041632.html}
@@ -50,313 +50,313 @@
 	year = {2004}
 }
 
-@misc{layout,
+@online{layout,
   lastchecked = {2014-09-17},
   url = {http://www.siart.de/typografie/latextipps.xhtml#layout},
   title = {LaTeX-Tipps}
 }
 
-@misc{listingtipp,
+@online{listingtipp,
   lastchecked = {2014-09-17},
   url = {http://uweziegenhagen.de/?p=1500},
   title={LaTeX: Umlaute in utf8 Listings korrekt ausgeben}
 }
 
-@misc{hagenberg,
+@online{hagenberg,
 lastchecked = {2016-10-09},
 url = {https://github.com/Digital-Media/HagenbergThesis},
 title={Hagenberg LaTeX Thesis Template}
 }
 
-@misc{corporate,
+@online{corporate,
 	lastchecked = {2018-04-01},
 	title = {Corporate Design},
 	url = {https://www.beinert.net/corporate-design/}
 }
 
-@misc{farbgeschlecht,
+@online{farbgeschlecht,
 	lastchecked = {2018-04-02},
 	title = {Farbpräfernz nach Geschlecht},
 	url = {http://www.farbenlehre.com/grundlagen-der-farbenlehre/farbpraeferenzen-geschlecht}
 }
 
-@misc{farblehre,
+@online{farblehre,
 	lastchecked = {2018-03-17},
 	title = {Farblehre},
 	url = {http://www.grafixerin.com/bilder/Farbpsychologie.pdf}
 }
 
-@misc{farbegrau,
+@online{farbegrau,
 	lastchecked = {2018-04-03},
 	title = {Farblehre zu Grau},
 	url = {https://alpina-farben.de/artikel/farbwirkung-grau/}
 }
 
-@misc{typocali,
+@online{typocali,
 	lastchecked = {2018-03-18},
 	title = {Typografie bezüglich Calibri},
 	url = {https://www.typografie.info/3/Schriften/fonts.html/calibri-r61/}
 }
 
-@misc{illustrator,
+@online{illustrator,
 	lastchecked = {2018-04-01},
 	title = {Allgemeines über Adobe Illustrator},
 	url = {https://www.adobe.com/at/products/illustrator.html?sdid=V6NZKW2K\&mv=search\&s\_kwcid=AL!3085!3!247433680443!b!!g!!adobe\%20illustrator\&ef\_id=WhhSTwAAAD0HOQZA:20180401113957:s}
 }
 
-@misc{vektor,
+@online{vektor,
 	lastchecked = {2018-03-18},
 	title = {Was sind Vektorgrafiken},
 	url = {https://helpx.adobe.com/illustrator/using/drawing-basics.html}
 }
 
-@misc{vektorzwei,
+@online{vektorzwei,
 	lastchecked = {2018-04-01},
 	title = {Was sind Vektorgrafiken - Zweite Quelle},
 	url = {http://www.vektorgarten.de/vektor-grafik-anwendung.html}
 }
 
-@misc{marke,
+@online{marke,
 	lastchecked = {2018-03-18},
 	title = {Verschiedene Logoarten},
 	url = {http://www.webmasterpro.de/design/article/logodesign-arten-von-logos.html}
 }
 
-@misc{zeichenmarke,
+@online{zeichenmarke,
 	lastchecked = {2018-03-18},
 	title = {Zeichenmarken},
 	url = {http://www.sanseg.de/logodesign/zeichenmarken/}
 }
 
-@misc{logozweck,
+@online{logozweck,
 	lastchecked = {2018-03-24},
 	title = {Welchen Zweck erfüllen Logos},
 	url = {http://www.startperfect.de/wissen/welchen-zweck-haben-logos.htm}
 }
 
-@misc{logobedeutung,
+@online{logobedeutung,
 	lastchecked = {2018-03-24},
 	title = {Begriffserklärung für Logos},
 	url = {http://www.startperfect.de/wissen/logo-begriff.htm}
 }
 
-@misc{logorecht,
+@online{logorecht,
 	lastchecked = {2018-03-29},
 	title = {Vermeidbare Fehler bei Logos},
 	url = {https://t3n.de/news/10-vermeidbare-logo-design-fehler-605752}
 }
 
-@misc{logofolgen,
+@online{logofolgen,
 	lastchecked = {2018-04-02},
 	title = {Vermeidbare Fehler bei Logos},
 	url = {https://books.google.at/books?id=bM0QNdYzdEkC\&pg=PA84\&lpg=PA84\&dq=logos+koieren+oder+sehr+\%C3\%A4hnlich-+was+kann+passieren\&source=bl\&ots=VdwmYI7Q2F\&sig=yMso-Ra9Yymg1ywsopEmimp9HyI\&hl=de\&sa=X\&ved=0ahUKEwi4gZDGjoXaAhUECSwKHZAFAmAQ6AEIUTAF\#v=onepage\&q\&f=false}
 }
 
-@misc{stift,
+@online{stift,
 	lastchecked = {2018-03-25},
 	title = {Zeichenstift - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/de/illustrator/using/drawing-pen-pencil-or-flare.html}
 }
 
-@misc{bezier,
+@online{bezier,
 	lastchecked = {2018-03-25},
 	title = {Allgemeines über Bezierkurven},
 	url = {http://www.mathepedia.de/Bezierkurven.html}
 }
 
-@misc{pinsel,
+@online{pinsel,
 	lastchecked = {2018-03-25},
 	title = {Pinsel - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/de/illustrator/using/brushes.html}
 }
 
-@misc{ellipse,
+@online{ellipse,
 	lastchecked = {2018-03-26},
 	title = {Ellipse - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/at/illustrator/using/drawing-simple-lines-shapes.html\#draw\_ellipses}
 }
 
-@misc{kombinieren,
+@online{kombinieren,
 	lastchecked = {2018-03-27},
 	title = {Kombinieren von Objekten - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/de/illustrator/using/combining-objects.html}
 }
 
-@misc{pathfinder,
+@online{pathfinder,
 	lastchecked = {2018-03-27},
 	title = {Kombinieren mit Pathfinder - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/de/illustrator/using/combining-objects.html\#pathfinder}
 }
 
-@misc{anwenden,
+@online{anwenden,
 	lastchecked = {2018-03-27},
 	title = {Anwenden des Pathfinders - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/de/illustrator/using/combining-objects.html\#apply\_a\_pathfinder\_effect\_using\_the\_pathfinder\_panel}
 }
 
-@misc{glatt,
+@online{glatt,
 	lastchecked = {2018-03-27},
 	title = {Glätten - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/at/illustrator/using/editing-paths.html}
 }
 
-@misc{illustratorfarbe,
+@online{illustratorfarbe,
 	lastchecked = {2018-03-28},
 	title = {Farbe - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/at/illustrator/using/painting-fills-strokes.html}
 }
 
-@misc{farbselect,
+@online{farbselect,
 	lastchecked = {2018-03-28},
 	title = {Farbeselektion - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/de/illustrator/using/selecting-colors.html}
 }
 
-@misc{rgb,
+@online{rgb,
 	lastchecked = {2018-03-28},
 	title = {RGB-Farbsystem},
 	url = {http://www.webmasterpro.de/design/article/das-rgb-farbsysteme.html}
 }
 
-@misc{hsb,
+@online{hsb,
 	lastchecked = {2018-03-28},
 	title = {HSB-Farbsystem},
 	url = {http://www.webmasterpro.de/design/article/farblehre-uebersicht-farbraeume.html}
 }
 
-@misc{hsbzwei,
+@online{hsbzwei,
 	lastchecked = {2018-03-28},
 	title = {HSB-Farbsystem - Zweite Quelle},
 	url = {http://www.win-seminar.de/adobe/hsb-farbmodell.php}
 }
 
-@misc{cmyk,
+@online{cmyk,
 	lastchecked = {2018-03-28},
 	title = {CMYK-Farbsystem},
 	url = {http://www.webmasterpro.de/design/article/das-cmyk-farbmodell.html}
 }
 
-@misc{hex,
+@online{hex,
 	lastchecked = {2018-03-28},
 	title = {Hexadezimal-System},
 	url = {http://www.farbtipps.de/farben-digital/websichere-farben.html}
 }
 
-@misc{websicher,
+@online{websicher,
 	lastchecked = {2018-03-28},
 	title = {Websichere Farben},
 	url = {http://www.farbtipps.de/farben-digital/websichere-farben.html}
 }
 
-@misc{flakonfarbe,
+@online{flakonfarbe,
 	lastchecked = {2018-03-28},
 	title = {Farbe für Flächen und Konturen - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/at/illustrator/using/painting-fills-strokes.html}
 }
 
-@misc{verlauf,
+@online{verlauf,
 	lastchecked = {2018-03-28},
 	title = {Verlauf für Flächen und Konturen - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/at/illustrator/using/painting-fills-strokes.html}
 }
 	
-@misc{ohne,
+@online{ohne,
 	lastchecked = {2018-03-28},
 	title = {Ohne für Flächen und Konturen - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/at/illustrator/using/painting-fills-strokes.html}
 }
 
-@misc{textwerkzeug,
+@online{textwerkzeug,
 	lastchecked = {2018-03-29},
 	title = {Textwerkzeug - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/at/illustrator/using/creating-text.html}
 }
 
-@misc{huellen,
+@online{huellen,
 	lastchecked = {2018-03-29},
 	title = {Verformen mit Hüllen - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/at/illustrator/using/reshape-using-envelopes.html}
 }
 
-@misc{svg,
+@online{svg,
 	lastchecked = {2018-03-29},
 	title = {Was sind SVGs},
 	url = {https://liechtenecker.at/svg-die-zukunft-von-grafiken-auf-webseiten/}
 }
 
-@misc{newdoc,
+@online{newdoc,
 	lastchecked = {2018-03-30},
 	title = {Neues Dokument - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/at/illustrator/how-to/create-new-document.html}
 }
 
-@misc{lines,
+@online{lines,
 	lastchecked = {2018-03-30},
 	title = {Hilfslinien - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/de/illustrator/using/rulers-grids-guides-crop-marks.html}
 }
 
-@misc{qrc,
+@online{qrc,
 	lastchecked = {2018-03-30},
 	title = {QR-Code-Generator},
 	url = {http://goqr.me/de/\#t=url}
 }
 
-@misc{qrnutzen,
+@online{qrnutzen,
 	lastchecked = {2018-03-30},
 	title = {Allgemeines über QR-Codes},
-	url = {http://www.t-misc.de/digital/smartphone/id\_46404754/was-sind-qr-codes-und-wie-nutzt-man-sie-.html}
+	url = {http://www.t-online.de/digital/smartphone/id\_46404754/was-sind-qr-codes-und-wie-nutzt-man-sie-.html}
 }
 
-@misc{cap,
+@online{cap,
 	lastchecked = {2018-03-30},
 	title = {Kopieren und Einfügen},
 	url = {http://pixus-punktus.de/kopieren-und-einfuegen-in-illustrator}
 }
 
-@misc{spiegel,
+@online{spiegel,
 	lastchecked = {2018-03-30},
 	title = {Spiegeln - Adobe Illustrator Dokumentation},
 	url = {https://helpx.adobe.com/de/illustrator/using/rotating-reflecting-objects.html}
 }
 
-@misc{keyframes,
+@online{keyframes,
 	lastchecked = {2018-04-01},
 	title = {Keyframes - Adobe Premiere Dokumentation},
 	url = {https://helpx.adobe.com/at/premiere-pro/using/adding-navigating-setting-keyframes.html}
 }
 
-@misc{ultra,
+@online{ultra,
 	lastchecked = {2018-04-01},
 	title = {Ultra Key},
-	url = {https://www.videoschoolmisc.com/green-screen-how-to-chroma-key-in-adobe-premiere-pro}
+	url = {https://www.videoschoolonline.com/green-screen-how-to-chroma-key-in-adobe-premiere-pro}
 }
 
-@misc{iso,
+@online{iso,
 	lastchecked = {2018-04-03},
 	title = {ISO-Wert},
 	url = {https://www.richtig-fotografiert.de/technische-grundlagen-der-fotografie/iso-wert/}
 }
 
-@misc{kompressor,
+@online{kompressor,
 	lastchecked = {2018-04-03},
 	title = {Kompressor},
 	url = {https://helpx.adobe.com/at/premiere-pro/using/audio-effects-transitions.html}
 }
 
-@misc{channel,
+@online{channel,
 	lastchecked = {2018-03-18},
 	title = {Kanalinformationen - Animationsvideos},
 	url = {https://www.youtube.com/channel/UCo8bcnLyZH8tBIH9V1mLgqQ/about}
 }
 
-@misc{damm,
+@online{damm,
 	lastchecked = {2018-04-01},
 	title = {Dämmung - Tonstudio},
 	url = {http://davidbrowne.de/tontechnik-wissen/studio-akustik/breitband-absorber}
 }
 
-@misc{cube,
+@online{cube,
 	lastchecked = {2018-04-01},
 	title = {Allgemeines über Cubase},
 	url = {https://www.steinberg.net/de/products/cubase/cubase\_musikproduktionssoftware.html}
@@ -378,7 +378,7 @@ title={Hagenberg LaTeX Thesis Template}
 	year = {2017} 
 }
 
-@misc{bildrate,
+@online{bildrate,
 lastchecked = {2018-17-03},
 url = {https://gwegner.de/know-how/verwirrung-um-die-frameraten-24-fps-25-fps-30-fps-pal-ntsc-wann-nimmt-man-was/},
 title={Verwirrung um die Frameraten}
@@ -400,7 +400,7 @@ title={Verwirrung um die Frameraten}
 	year = {2017} 
 }
 
-@misc{farbabtastungZwei,
+@online{farbabtastungZwei,
 lastchecked = {2018-18-03},
 url = {https://www.itwissen.info/Farb-Subsampling-color-subsampling.html},
 title={Farb-Subsampling}
@@ -414,7 +414,7 @@ title={Farb-Subsampling}
 	year = {2017} 
 }
 
-@misc{aufbau,
+@online{aufbau,
 lastchecked = {2018-18-03},
 url = {http://referate.mezdata.de/sj2009/dslr\_sinan-saglam/ausarbeitung/seite2.htm},
 title={DSLR Aufbau}
@@ -436,7 +436,7 @@ title={DSLR Aufbau}
 	year = {2017} 
 }
 
-@misc{canon60,
+@online{canon60,
 lastchecked = {2018-16-03},
 url = {https://www.canon.at/for\_home/product\_finder/cameras/digital\_slr/eos\_60d/specification.aspx},
 title={Canon EOS 60D Technische Daten}
@@ -450,13 +450,13 @@ title={Canon EOS 60D Technische Daten}
 	year = {2017} 
 }
 
-@misc{canon70,
+@online{canon70,
 lastchecked = {2018-16-03},
 url = {https://www.canon.at/for\_home/product\_finder/cameras/digital\_slr/eos\_70d/specification.aspx},
 title={Canon EOS 70D Technische Daten}
 }
 
-@misc{intra,
+@online{intra,
 lastchecked = {2018-17-03},
 url = {https://www.univie.ac.at/video/grundlagen/intraframe.htm},
 title={Intraframe und Interframe-Kompression}
@@ -518,37 +518,37 @@ title={Intraframe und Interframe-Kompression}
 	year = {2017} 
 }
 
-@misc{lichter,
+@online{lichter,
 lastchecked = {2018-17-03},
 url = {http://www.filmmachen.de/tipps-und-tricks/licht/3-punkt-beleuchtung},
 title={DIE 3-PUNKT-BELEUCHTUNG}
 }
 
-@misc{softbox,
+@online{softbox,
 lastchecked = {2018-02-04},
 url = {https://abenteuerdslrfotografie.de/softbox-post/},
 title={Softbox – Lichtformer für Blitz- und Dauerlicht}
 }
 
-@misc{kugel,
+@online{kugel,
 lastchecked = {2018-17-03},
 url = {https://www.delamar.de/mikrofon/richtcharakteristik-mikrofon-22647/},
 title={Richtcharakteristik: Mikrofone – Knowhow \& Grundlagenwissen}
 }
 
-@misc{naheffekt,
+@online{naheffekt,
 lastchecked = {2018-04-02},
 url = {https://www.delamar.de/faq/nahbesprechungseffekt-34021/},
 title={Nahbesprechungseffekt}
 }
 
-@misc{ms,
+@online{ms,
 lastchecked = {2018-17-03},
 url = {https://www.delamar.de/faq/ms-stereofonie-bearbeiten-32735/},
 title={M/S-Stereofonie bearbeiten}
 }
 
-@misc{kondensator,
+@online{kondensator,
 lastchecked = {2018-17-03},
 url = {https://www.delamar.de/faq/kondensatormikrofon-34728/},
 title={Was ist ein Kondensatormikrofon?}
@@ -594,19 +594,19 @@ title={Was ist ein Kondensatormikrofon?}
 	year = {2017} 
 }
 
-@misc{drehbuchZwei,
+@online{drehbuchZwei,
 lastchecked = {2018-02-04},
 url = {https://story.adobe.com/\#/projects},
 title={Adobe Story}
 }
 
-@misc{storyboard,
+@online{storyboard,
 lastchecked = {2018-16-03},
 url = {https://www.e-teaching.org/didaktik/konzeption/inhalte/storyboard},
 title={Storyboard}
 }
 
-@misc{storyboardLink,
+@online{storyboardLink,
 lastchecked = {2018-16-03},
 url = {https://www.storyboardthat.com/},
 title={Digital Storytelling}
@@ -620,7 +620,7 @@ title={Digital Storytelling}
 	year = {2017} 
 }
 
-@misc{mpeg,
+@online{mpeg,
 lastchecked = {2018-26-03},
 url = {https://www.film-tv-video.de/term-word/mpeg/},
 title={MPEG}
@@ -642,9 +642,9 @@ title={MPEG}
 	year = {2017} 
 }
 
-@misc{lightworksZwei,
+@online{lightworksZwei,
 lastchecked = {2018-02-04},
-url = {https://www.lwks.com/index.php?option\=com\_content\&view\=article\&id\=102\&Itemid\=213},
+url = {https://www.lwks.com/index.php?option=com\_content\&view=article\&id=102\&Itemid=213},
 title={Comparison: Free vs Pro}
 }
 
@@ -712,13 +712,13 @@ title={Comparison: Free vs Pro}
 	year = {2017} 
 }
 
-@misc{farbkorrektur,
+@online{farbkorrektur,
 lastchecked = {2018-31-03},
 url = {https://helpx.adobe.com/at/premiere-pro/using/color-workflows.html},
 title={Farbkorrektur in Premiere Pro}
 }
 
-@misc{masken,
+@online{masken,
 lastchecked = {2018-31-03},
 url = {https://helpx.adobe.com/de/premiere-pro/using/masking-tracking.html},
 title={Maskieren in Premiere Pro}
@@ -740,19 +740,19 @@ title={Maskieren in Premiere Pro}
 	year = {2017} 
 }
 
-@misc{export,
+@online{export,
 lastchecked = {2018-02-04},
 url = {https://helgeklein.com/blog/2017/12/browser-video-codecs-formats-hardware-acceleration/},
 title={Browser Video: Codecs, Formats \& Hardware Acceleration}
 }
 
-@misc{exportZwei,
+@online{exportZwei,
 lastchecked = {2018-02-04},
 url = {https://www.soeren-hentzschel.at/firefox/mozilla-integriert-openh264-video-codec-von-cisco-in-firefox-33/},
 title={Mozilla integriert OpenH264 Video Codec von Cisco in Firefox 33}
 }
 
-@misc{auda,
+@online{auda,
 	lastchecked = {2018-04-01},
 	title = {Allgemeines über Audacity},
 	url = {http://www.audacity.de/}
