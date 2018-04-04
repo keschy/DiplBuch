@@ -1,7 +1,7 @@
 \section{Kameramodelle}
 \subsection{DSLR Kamera - Aufbau}
 DSLR bedeutet Digital Single Lens Reflex und sind Spiegelreflexkameras mit digitalem Aufnahmesensor. Beispiele für eine Spiegelreflexkamera sind die Canon EOS 60D oder die Canon EOS 70D. In der folgenden Abbildung wird der Aufbau einer DSLR Kamera erklärt.\newline 
-Wie man in der Abbildung \ref{fig:abb13} sehen kann, geht das Licht zuerst durch die Linse des Objektivs (1). Anschließend trifft das Licht auf den Schwingspiegel (2), welcher das Licht auf die Mattscheibe (5) reflektiert. Daraufhin verkleinert es die Sammellinse (6) auf die Größe des Suchers. Da das Bild noch spiegelverkehrt ist, spiegelt es das Pentaprisma (7) und kann so im Sucher (8) dann angezeigt werden. Als nächstes wird der Auslöser getätigt. Durch das Klicken auf den Auslöser wird der Spiegel nach oben geklappt und der Weg zum Schlitzverschluss (3) wird freigegeben. Anschließend öffnet sich dieser Verschluss und das Licht fallt auf den Sensor (4). Zum Schluss wird das Bild abgespeichert.\footnote{vgl. http://referate.mezdata.de/sj2009/dslr\_sinan\-saglam/ausarbeitung/seite2.htm [Zugriff: 18.03.2018]}
+Wie man in der Abbildung \ref{fig:abb13} sehen kann, geht das Licht zuerst durch die Linse des Objektivs (1). Anschließend trifft das Licht auf den Schwingspiegel (2), welcher das Licht auf die Mattscheibe (5) reflektiert. Daraufhin verkleinert es die Sammellinse (6) auf die Größe des Suchers. Da das Bild noch spiegelverkehrt ist, spiegelt es das Pentaprisma (7) und kann so im Sucher (8) dann angezeigt werden. Als nächstes wird der Auslöser getätigt. Durch das Klicken auf den Auslöser wird der Spiegel nach oben geklappt und der Weg zum Schlitzverschluss (3) wird freigegeben. Anschließend öffnet sich dieser Verschluss und das Licht fallt auf den Sensor (4). Zum Schluss wird das Bild abgespeichert.\citep{aufbau}
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.6\textwidth]{abb13} 
@@ -9,23 +9,23 @@ Wie man in der Abbildung \ref{fig:abb13} sehen kann, geht das Licht zuerst durch
 \end{figure}
 \footnotetext{Quelle: http://referate.mezdata.de/sj2009/dslr\_sinan-saglam/ausarbeitung/seite2.htm}
 \subsection{Sensoren}
-Heutzutage gibt es zwei Vorreiter im Bereich der Sensoren. Nämlich einerseits den CMOS-Sensor und andererseits den CCD Sensor. Welcher Sensor nun auch wirklich besser ist, und in welcher Kamera welcher Sensor eingebaut werden soll, ist jedoch noch umstritten.\footnote{\label{}vgl. Jörg Jovy, 2017, S. 137}
+Heutzutage gibt es zwei Vorreiter im Bereich der Sensoren. Nämlich einerseits den CMOS-Sensor und andererseits den CCD Sensor. Welcher Sensor nun auch wirklich besser ist, und in welcher Kamera welcher Sensor eingebaut werden soll, ist jedoch noch umstritten.\citep{sensor}
 \paragraph{CMOS-Chips}
 \leavevmode \\
-Die CMOS Sensoren haben den großen Nachteil, dass das Bild bei schnellen Bewegungen, etwa wie beim Filmen von fahrenden Autos, verzerrt dargestellt wird. Dies wird auch Rolling-Shutter-Effekt genannt. Bei dem Rolling-Shutter-Effekt schauen die vertikalen Linien so aus, als würden sie umfallen, was das Bild unbrauchbar machen kann.\footnote{\label{}vgl. Jörg Jovy, 2017, S. 137}
+Die CMOS Sensoren haben den großen Nachteil, dass das Bild bei schnellen Bewegungen, etwa wie beim Filmen von fahrenden Autos, verzerrt dargestellt wird. Dies wird auch Rolling-Shutter-Effekt genannt. Bei dem Rolling-Shutter-Effekt schauen die vertikalen Linien so aus, als würden sie umfallen, was das Bild unbrauchbar machen kann.\citep{sensor}
 \paragraph{CCD-Chips}
 \leavevmode \\
-Die CCD Sensoren haben zwar nicht das Problem mit dem Rolling-Shutter-Effekt, jedoch sind diese Sensoren lichtempfindlicher. Das bedeutet, dass wenn das Licht direkt ins Objektiv scheint, tritt der Blooming-Effekt auf. Beim Blooming-Effekt wird das Bild von einem breiten weißen Streifen geteilt. Scheint Kunstlicht in das Objektiv, entstehen wandernde violette Streifen.\footnote{\label{}vgl. Jörg Jovy, 2017, S. 137f.}
+Die CCD Sensoren haben zwar nicht das Problem mit dem Rolling-Shutter-Effekt, jedoch sind diese Sensoren lichtempfindlicher. Das bedeutet, dass wenn das Licht direkt ins Objektiv scheint, tritt der Blooming-Effekt auf. Beim Blooming-Effekt wird das Bild von einem breiten weißen Streifen geteilt. Scheint Kunstlicht in das Objektiv, entstehen wandernde violette Streifen.\citep{ccd}
 \subsection{Canon EOS 60D}
-Die Canon EOS 60D DSLR (Digital Single Lens Reflex) Kamera bietet einen 18 Megapixel APS-C CMOS Sensor mit einer Größe von 22,3 mm x 14,9 mm. Die Spiegelreflexkamera nimmt mit Full HD (1920 x 1080) auf, wobei standardgemäß mit 25 Bildern pro Sekunde aufgenommen wird. Die Auflösung wird meistens mit 1080p gekennzeichnet, wobei das p für progressive steht, also für die Vollbilder.\footnote{\label{}vgl. https://www.canon.at/for\_home/product\_finder/cameras/digital\_slr/eos\_60d/specification.aspx [Zugriff: 16.03.2018]}\footnote{\label{}vgl. Jörg Jovy, 2017, S. 111}
+Die Canon EOS 60D DSLR (Digital Single Lens Reflex) Kamera bietet einen 18 Megapixel APS-C CMOS Sensor mit einer Größe von 22,3 mm x 14,9 mm. Die Spiegelreflexkamera nimmt mit Full HD (1920 x 1080) auf, wobei standardgemäß mit 25 Bildern pro Sekunde aufgenommen wird. Die Auflösung wird meistens mit 1080p gekennzeichnet, wobei das p für progressive steht, also für die Vollbilder.\citep{canon60}\citep{canon60Zwei}
 \subsection{Canon EOS 70D}
 Die Canon EOS 70D bietet einen minimal größeren Sensor im Gegensatz zu der Canon EOS 60D. Die Größe des Sensors der Canon EOS 70D beträgt 22,5 mm x 15,0 mm. Die Sensorgröße einer Kamera ist entscheidend, da folgendes gilt: "Je kleiner der Sensor, desto geringer sind die Möglichkeiten, mit einer definierten Schärfentiefe zu arbeiten." (Jörg Jovy, 2017, S. 136)\newline
-Die Canon EOS 70D nimmt ebenfalls mit Full HD auf, wobei zu beachten ist, dass sie zusätzlich die Möglichkeit bietet, mit Intra-Frame oder Inter-Frame aufzunehmen.\footnote{\label{}vgl. https://www.canon.at/for\_home/product\_finder/cameras/digital\_slr/eos\_70d/specification.aspx [Zugriff: 16.03.2018]} Bei Intra- oder Inter-Frames wird jedes Einzelbild komprimiert, das heißt, es kann auf jedes einzelne Bild zugegriffen werden\footnote{\label{}vgl. https://www.univie.ac.at/video/grundlagen/intraframe.htm [Zugriff: 17.03.2018]}, was sich in der Post Production positiv widerspiegelt, da man keine Gruppen aus Bildern bearbeiten muss, sondern im Notfall jedes einzelne Bild bearbeiten kann. Weiters spielt bei der Wahl der richtigen Kamera, der Cropfaktor eine wichtige Rolle. "Je kleiner ein Sensor ist, desto kleiner ist auch der Bildwinkel des Objektivs."(Jörg Jovy, 2017, S. 138)\newline
-Das bedeutet, dass die Abbildungsfläche beschnitten wird, was einen engeren Bildausschnitt liefert und somit ein vergrößertes Bild darstellt. Was bei DSLR Kameras zu beachten ist, ist das sie einen Cropfaktor von 1,6 besitzen. So verhält sich durch den Cropfaktor von 1,6 ein Normalobjektiv mit 50mm Brennweite, wie ein leichtes Teleobjektiv mit 80mm Brennweite.\footnote{\label{}vgl. Jörg Jovy, 2017, 138}
+Die Canon EOS 70D nimmt ebenfalls mit Full HD auf, wobei zu beachten ist, dass sie zusätzlich die Möglichkeit bietet, mit Intra-Frame oder Inter-Frame aufzunehmen.\citep{canon70} Bei Intra- oder Inter-Frames wird jedes Einzelbild komprimiert, das heißt, es kann auf jedes einzelne Bild zugegriffen werden\citep{intra}, was sich in der Post Production positiv widerspiegelt, da man keine Gruppen aus Bildern bearbeiten muss, sondern im Notfall jedes einzelne Bild bearbeiten kann. Weiters spielt bei der Wahl der richtigen Kamera, der Cropfaktor eine wichtige Rolle. "Je kleiner ein Sensor ist, desto kleiner ist auch der Bildwinkel des Objektivs."(Jörg Jovy, 2017, S. 138)\newline
+Das bedeutet, dass die Abbildungsfläche beschnitten wird, was einen engeren Bildausschnitt liefert und somit ein vergrößertes Bild darstellt. Was bei DSLR Kameras zu beachten ist, ist das sie einen Cropfaktor von 1,6 besitzen. So verhält sich durch den Cropfaktor von 1,6 ein Normalobjektiv mit 50mm Brennweite, wie ein leichtes Teleobjektiv mit 80mm Brennweite.\citep{crop}
 Da die Canon EOS 70D einen minimal größeren Sensor besitzt, und die Möglichkeit bietet, mit Intra-Frames aufzunehmen, wurde die Canon EOS 70D DSLR Kamera für alle Aufnahmen verwendet.
 \subsection{Objektive}
 Die Brennweite eines Objektivs legt den Bildausschnitt fest. Die Brennweite wird in Millimeter angegeben und sagt aus, ob es sich um ein Normal-, Tele-, oder ein Weitwinkelobjektiv handelt.
-Anhand der Abbildung \ref{fig:abb1} kann man gut erkennen, dass ab 10 mm bis 24 mm Weitwinkelobjektive zum Einsatz kommen. Ein Normalobjektiv erkennt man daran, da es eine Brennweite von 50 mm besitzt und somit einen Bildwinkel von 46$^\circ$ hat. Teleobjektive finden ihren Einsatz bei 80 mm bis 200 mm.\footnote{\label{}vgl. Jörg Jovy, 2017, S. 138f.} Anhand der Abbildung \ref{fig:abb1} kann man gut den Unterschied zwischen der Brennweite von 10 mm und einem Bildwinkel mit 130$^\circ$, und einem Objektiv mit einer Brennweite von 200 mm mit einem 12$^\circ$ Bildwinkel erkennen. 
+Anhand der Abbildung \ref{fig:abb1} kann man gut erkennen, dass ab 10 mm bis 24 mm Weitwinkelobjektive zum Einsatz kommen. Ein Normalobjektiv erkennt man daran, da es eine Brennweite von 50 mm besitzt und somit einen Bildwinkel von 46$^\circ$ hat. Teleobjektive finden ihren Einsatz bei 80 mm bis 200 mm.\citep{objektiv} Anhand der Abbildung \ref{fig:abb1} kann man gut den Unterschied zwischen der Brennweite von 10 mm und einem Bildwinkel mit 130$^\circ$, und einem Objektiv mit einer Brennweite von 200 mm mit einem 12$^\circ$ Bildwinkel erkennen. 
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.7\textwidth]{abb1} 
@@ -35,21 +35,21 @@ Anhand der Abbildung \ref{fig:abb1} kann man gut erkennen, dass ab 10 mm bis 24 
 \begin{itemize}
 	\item Normalobjektiv
 		\begin{itemize}
-		\item Das Normalobjektiv entspricht im Grunde dem menschlichen Blickwinkel, und wird meist als natürlich empfunden.\footnote{\label{}vgl. Jörg Jovy, 2017, S. 196} 
+		\item Das Normalobjektiv entspricht im Grunde dem menschlichen Blickwinkel, und wird meist als natürlich empfunden.\citep{normalobjektiv}
 		\end{itemize}
 	\item Weitwinkel
 		\begin{itemize}
-		\item Wie man auf der obigen Abbildung sehen kann, haben Weitwinkelobjektive einen breiten Bildwinkel, somit sieht man mehr vom Bild.\footnote{\label{}vgl. Jörg Jovy, 2017, S. 196}
+		\item Wie man auf der obigen Abbildung sehen kann, haben Weitwinkelobjektive einen breiten Bildwinkel, somit sieht man mehr vom Bild.\citep{normalobjektiv}
 		\end{itemize}
 	\item Teleobjektiv
 		\begin{itemize}
-		\item Teleobjektive nehmen Objekte mit einem kleinen Blickwinkel aus großer Entfernung auf. Teleobjektive haben daher einen eher kleinen Schärfentiefenbereich, was sich beispielsweise für Interviews schlecht eignet.\footnote{\label{}vgl. Jörg Jovy, 2017, S. 196f.}
+		\item Teleobjektive nehmen Objekte mit einem kleinen Blickwinkel aus großer Entfernung auf. Teleobjektive haben daher einen eher kleinen Schärfentiefenbereich, was sich beispielsweise für Interviews schlecht eignet.\citep{tele}
 \end{itemize}
 \end{itemize}
 \paragraph{Schärfentiefe}
 \leavevmode \\
 "Die Schärfentiefe ist das Maß für den in einem Bild scharf abgebildeten Bereich." (Jörg Jovy, 2017, S. 223)\newline
-Der Sinn der Schärfentiefe ist, ein Objekt oder Motiv vom Hintergrund abzuheben, also es schärfer darstellen zu lassen als den Hintergrund.\footnote{\label{}vgl. Jörg Jovy, 2017, S. 223}\newline
+Der Sinn der Schärfentiefe ist, ein Objekt oder Motiv vom Hintergrund abzuheben, also es schärfer darstellen zu lassen als den Hintergrund.\citep{scharf}\newline
 Die Schärfentiefe kann durch drei Parameter eingestellt werden:
 \begin{itemize}
 	\item Sensorgröße
@@ -57,6 +57,6 @@ Die Schärfentiefe kann durch drei Parameter eingestellt werden:
 	\item Brennweite
 \end{itemize}
 Wie vorhin erklärt, hat der Sensor auch einen Einfluss auf die Schärfentiefe, nämlich je größer der Sensor ist, desto mehr Spielraum bietet sich.\newline
-Je weiter die Blende geöffnet ist, desto geringer ist die Schärfentiefe. Zuletzt kann noch die Brennweite eingesetzt werden, um eine geringe Schärfentiefe zu erzeugen. Je näher man an ein Objekt heranzoomt, desto unschärfer wird der Hintergrund.\footnote{\label{}vgl. Jörg Jovy, 2017, S.267ff.}\newline 
+Je weiter die Blende geöffnet ist, desto geringer ist die Schärfentiefe. Zuletzt kann noch die Brennweite eingesetzt werden, um eine geringe Schärfentiefe zu erzeugen. Je näher man an ein Objekt heranzoomt, desto unschärfer wird der Hintergrund.\citep{scharfZwei}\newline 
 Bei allen drei Videos wurden Zoomobjektive verwendet. Zoomobjektive haben eine variable Brennweite, das heißt man muss sich nicht auf eine fixe Brennweite festlegen, sondern kann selbst entscheiden welche Brennweite man haben möchte. Bei dem Dreh der Videos kam das Canon Objektiv EF-S 18-135mm f/3.5-5.6 IS USM zum Einsatz. Durch das Zoomobjektiv war es möglich das Filmen flexibel zu gestalten.\newline
 Beim Dreh des Interviews mit dem Abteilungsvorstand wurde die Brennweite nicht berücksichtigt und somit hat die nötige Schärfentiefe im Bild gefehlt. Dies wurde anschließend in der Post Production nachträglich nachbearbeitet. Bei dem Tag der offenen Tür Video konnte mit dem Wissen, dass die Brennweite auch einen Einfluss auf die Schärfentiefe hat, die optimale Schärfentiefe erzielt werden.
