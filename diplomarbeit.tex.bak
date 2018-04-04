@@ -46,6 +46,8 @@
 
 \usepackage{graphicx}
 
+\usepackage{chngcntr}
+
 %%? \usepackage{textcomp}
 \usepackage[hyphens]{url}
 \usepackage{makeidx}
@@ -164,6 +166,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
+
 %% wir schreiben keine Umlaut mit "a "o
 \shorthandoff{"}
 %% mit kapitelautor kann man den Autor festlegen oder auf leer setzen - steht dann in der Fußzeile.
